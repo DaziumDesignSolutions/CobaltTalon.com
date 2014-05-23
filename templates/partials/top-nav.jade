@@ -1,0 +1,51 @@
+nav#main-dropdown-nav.navbar.navbar-default.navbar-static
+  .container
+    .navbar-header
+        button.navbar-toggle(type='button', data-toggle='collapse', data-target='.js-navbar-collapse')
+          span.sr-only Toggle navigation
+          span.icon-bar
+          span.icon-bar
+          span.icon-bar
+        a.navbar-brand(href='#') Home
+      .collapse.navbar-collapse.js-navbar-collapse
+        ul.nav.navbar-nav
+          li.dropdown.dropdown-large
+            a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | SOLUTIONS
+              b.caret
+            ul.dropdown-menu.dropdown-menu-large.row
+              li.col-sm-6
+                ul
+                  li.dropdown-header PRODUCTS
+                  li
+                    a(href='#') Analytic Modules
+                  li
+                    a(href='#') Analytic Methodologies
+                  li
+                    a(href='#') Analytic Platform
+                  li.dropdown-header SERVICES
+                  li
+                    a(href='#') Strategic Consulting Services
+                  li
+                    a(href='#') Data Enrichment Services
+                  li
+                    a(href='#') Predictive Insights
+              li.col-sm-6
+                p: img(src=contents.images.menu['solutions-menu.jpg'].url)
+                p Classify and place patients into accurate clinical and financial risk categories.
+          li
+            a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | NEWS and EVENTS
+              //- b.caret
+          li
+            a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | RESOURCES
+              //- b.caret
+          li
+            a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | ABOUT
+              //- b.caret
+          li
+            a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | CONTACT
+              //- b.caret

@@ -42,29 +42,7 @@ html.no-js(lang='en')
               a(href=locals.url)
                 //- img(src=contents.images['logo-cobaltastra.png'].url)
 
-    nav#main-nav.navbar(role='navigation')
-      .container
-        .navbar-header
-          button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
-            span.sr-only Toggle navigation
-            span.icon-bar
-            span.icon-bar
-            span.icon-bar
-          a.navbar-brand(href='/') Home
-        .navbar-collapse.collapse
-          ul.nav.navbar-nav
-            li
-              a(href='#') SOLUTIONS
-            li
-              a(href='#') NEWS and EVENTS
-            li
-              a(href='#') RESOURCES
-            li
-              a(href='#') ABOUT
-            li
-              a(href='#') CONTACT
-      //
-        /.navbar-collapse
+    include partials/top-nav
 
     main#content
       block content
