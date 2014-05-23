@@ -1,0 +1,61 @@
+extends layout
+
+block title
+  - var dirs = page.metadata.subdirs.join('/')
+  - var content = contents[dirs][page.metadata.content]
+  = content.title + ' | ' + locals.name
+
+
+block content
+  #solutions-analytic-modules
+    .container
+        .content-area
+          h1= content.title
+          .row
+            .col-sm-8!= contents.solutions['analytic-modules.md'].html
+            .col-sm-4
+              .callout
+                != contents.solutions['analytic-modules-callout.md'].html
+
+        #solutions-features
+          .content-area
+            .solution-feature
+              - var feature = contents.solutions['analytic-modules']['1-population-health-analytic-module.md']
+              - console.log(feature.metadata)
+              .row
+                .col-sm-2
+                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
+                .col-sm-7
+                  != feature.html
+                .col-sm-3
+                  ul.list-unstyled.feature-list
+                    each item in feature.metadata.features
+                      li= item
+
+          .content-area
+            .solution-feature
+              - var feature = contents.solutions['analytic-modules']['2-provider-analytic-module.md']
+              - console.log(feature.metadata)
+              .row
+                .col-sm-2
+                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
+                .col-sm-7
+                  != feature.html
+                .col-sm-3
+                  ul.list-unstyled.feature-list
+                    each item in feature.metadata.features
+                      li= item
+
+          .content-area
+            .solution-feature
+              - var feature = contents.solutions['analytic-modules']['3-consumer-analytic-module.md']
+              - console.log(feature.metadata)
+              .row
+                .col-sm-2
+                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
+                .col-sm-7
+                  != feature.html
+                .col-sm-3
+                  ul.list-unstyled.feature-list
+                    each item in feature.metadata.features
+                      li= item

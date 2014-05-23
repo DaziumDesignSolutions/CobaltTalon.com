@@ -1,0 +1,5 @@
+{
+  "template": "sub-page.jade",
+  "content": "analytic-modules.md",
+  "subdirs": ["solutions"]
+}
