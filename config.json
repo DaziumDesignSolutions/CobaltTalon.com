@@ -1,0 +1,29 @@
+{
+  "locals": {
+    "url": "http://www.cobalttalon.com",
+    "name": "Cobalt Talon",
+    "owner": "Cobalt Talon",
+    "description": "Website for Cobalt Talon"
+  },
+  "plugins": [
+    "wintersmith-livereload",
+    "wintersmith-node-sass",
+    "wintersmith-less"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  },
+  "port": "4567"
+}

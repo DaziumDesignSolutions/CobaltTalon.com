@@ -1,0 +1,93 @@
+extends layout
+
+block title
+  | Home | 
+  = locals.name
+
+block content
+  #home-index
+    .container
+      .content-area
+        #home-rotator.carousel.slide(data-ride='carousel')
+          ol.carousel-indicators
+              li.active(data-target='#home-rotator', data-slide-to='0')
+              li(data-target='#home-rotator', data-slide-to='1')
+              li(data-target='#home-rotator', data-slide-to='2')
+            .carousel-inner
+              .item.active
+                img(src=contents.images.rotators['mobile-platform.jpg'].url, alt='')
+                .item-content
+                  h3 OWEIJF WOIEF 
+                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  p.action
+                    a.btn.btn-lg.btn-primary(href='#') Button
+              .item
+                img(src=contents.images.rotators['mobile-screens.jpg'].url, alt='')
+                .item-content
+                  h3 OWEIJF WOIEF 
+                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  p.action
+                    a.btn.btn-lg.btn-primary(href='#') Button
+              .item
+                img(src=contents.images.rotators['mobile-using-grayscale.jpg'].url, alt='')
+                .item-content
+                  h3 OWEIJF WOIEF 
+                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  p.action
+                    a.btn.btn-lg.btn-primary(href='#') Button
+            a.left.carousel-control(href='#home-rotator', data-slide='prev')
+              span.glyphicon.glyphicon-chevron-left
+            a.right.carousel-control(href='#home-rotator', data-slide='next')
+              span.glyphicon.glyphicon-chevron-right
+
+
+
+      #home-about-us-columns.content-area
+        .hpadded
+          .row
+            .col-sm-6
+              != contents.home['about-col-left.md'].html
+            .col-sm-6
+              != contents.home['about-col-right.md'].html
+
+      #home-solutions-overview.content-area
+        .row
+          .col-sm-3
+            .solution-overview
+              - var content = contents.home.solutions['solution-1.md']
+              .icon
+                img(src='/images/' + content.metadata.icon)
+              != content.html
+          .col-sm-3
+            .solution-overview
+              - var content = contents.home.solutions['solution-2.md']
+              .icon
+                img(src='/images/' + content.metadata.icon)
+              != content.html
+          .col-sm-3
+            .solution-overview
+              - var content = contents.home.solutions['solution-3.md']
+              .icon
+                img(src='/images/' + content.metadata.icon)
+              != content.html
+          .col-sm-3
+            .solution-overview
+              - var content = contents.home.solutions['solution-4.md']
+              .icon
+                img(src='/images/' + content.metadata.icon)
+              != content.html
+
+      #home-articles-and-events.content-area
+        .row
+          #home-articles.col-sm-6
+            article!= contents.home.articles['article-1.md'].html
+            article!= contents.home.articles['article-1.md'].html
+          #home-events.col-sm-6
+            h3 Highlighted Events
+            - var events = _.chain(contents.home.events._.pages).sortBy(function(item) {
+            -   var match = item.filepath.relative.match(/events[\/](\d+)-(\w+?)\.md$/)
+            -   return parseInt(match[1]);
+            - }).value();
+            .event
+              each event in events
+                include partials/event
