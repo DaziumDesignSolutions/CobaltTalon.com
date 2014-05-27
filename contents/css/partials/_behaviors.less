@@ -1,14 +1,12 @@
-@import "vendor/prefixer.less";
-
 html.js {
   .content-area {
-    .transition-property(all);
-    .transition-duration(400ms);
+    transition-property: all;
+    transition-duration: 400ms;
     opacity: 1;
 
     &.will-fadein {
       opacity: 0;
-      .transform(translate(0, -30px));
+      transform: translate(0, -30px);
     }
   }
 
