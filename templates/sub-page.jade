@@ -1,61 +1,34 @@
 extends layout
 
 block title
-  - var dirs = page.metadata.subdirs.join('/')
-  - var content = contents[dirs][page.metadata.content]
+  - var subdir_page = page.filepath.relative.split('/')
+  - var subdir = subdir_page[0]
+  - var cfname = subdir_page[1].split('.')[0]
+  - var content = contents[subdir][cfname + '.md']
+  - var callout = contents[subdir][cfname + '-callout.md']
+
+  - var features = _.chain(contents[subdir][cfname]._.pages).sortBy(function(item) {
+  -   var ptn = RegExp(subdir + '/' + cfname + '/' + '(\\d+)-.*')
+  -   var match = item.filepath.relative.match(ptn)
+  -   return parseInt(match[1]);
+  - }).value();
+
   = content.title + ' | ' + locals.name
 
 
 block content
-  #solutions-analytic-modules
+  div(id='solutions-' + cfname)
     .container
-        .content-area
-          h1= content.title
+      .content-area
+        h1= content.title
+        - if (typeof callout !== 'undefined')
           .row
-            .col-sm-8!= contents.solutions['analytic-modules.md'].html
+            .col-sm-8!= content.html
             .col-sm-4
-              .callout
-                != contents.solutions['analytic-modules-callout.md'].html
+              .callout!= callout.html
+        - else
+          != content.html
 
-        #solutions-features
-          .content-area
-            .solution-feature
-              - var feature = contents.solutions['analytic-modules']['1-population-health-analytic-module.md']
-              - console.log(feature.metadata)
-              .row
-                .col-sm-2
-                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
-                .col-sm-7
-                  != feature.html
-                .col-sm-3
-                  ul.list-unstyled.feature-list
-                    each item in feature.metadata.features
-                      li= item
-
-          .content-area
-            .solution-feature
-              - var feature = contents.solutions['analytic-modules']['2-provider-analytic-module.md']
-              - console.log(feature.metadata)
-              .row
-                .col-sm-2
-                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
-                .col-sm-7
-                  != feature.html
-                .col-sm-3
-                  ul.list-unstyled.feature-list
-                    each item in feature.metadata.features
-                      li= item
-
-          .content-area
-            .solution-feature
-              - var feature = contents.solutions['analytic-modules']['3-consumer-analytic-module.md']
-              - console.log(feature.metadata)
-              .row
-                .col-sm-2
-                  img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
-                .col-sm-7
-                  != feature.html
-                .col-sm-3
-                  ul.list-unstyled.feature-list
-                    each item in feature.metadata.features
-                      li= item
+      #solution-features
+        each feature in features
+          include partials/solution-feature

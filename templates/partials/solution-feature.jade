@@ -1,0 +1,12 @@
+.content-area
+  .solution-feature
+    .row
+      .col-sm-2
+        img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
+      .col-sm-7
+        != feature.html
+      .col-sm-3
+        ul.list-unstyled.feature-list
+          each item in feature.metadata.features
+            li= item
+
