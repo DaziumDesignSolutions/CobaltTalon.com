@@ -1,4 +1,5 @@
 ---
+image: feature-image.png
 features:
   - Feature One
   - Feature Two

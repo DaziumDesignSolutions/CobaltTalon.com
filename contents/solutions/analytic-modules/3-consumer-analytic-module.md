@@ -1,4 +1,5 @@
 ---
+image: feature-image.png
 features:
   - Subsidy Calculator
   - Value Segments

@@ -1,8 +1,11 @@
+- var idx = feature.filepath.relative.lastIndexOf('/')
+- var image_url = '/' + feature.filepath.relative.slice(0,idx) + '/' + feature.metadata.image
+
 .content-area
   .solution-feature
     .row
       .col-sm-2
-        img(data-src='holder.js/120x120/auto/#666:#444/text:feature-image')
+        img(src=image_url)
       .col-sm-7
         != feature.html
       .col-sm-3
