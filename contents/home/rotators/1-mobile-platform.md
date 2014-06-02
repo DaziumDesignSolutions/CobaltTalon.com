@@ -2,9 +2,9 @@
 background: mobile-platform.jpg
 ---
 
-### Mobile Platform
+### `ACO VIABILITY IN THE HEALTHCARE MARKET`
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+`A big challenge facing ACOs in 2014 is measuring the overall effectiveness of the organization’s ability to deliver quality care which improves population health while simultaneously controlling costs. A limiting factor for any ACO is the availability of data and the analytic tools necessary to measure and compare baseline data against post-intervention results.`
 
 <div class="action"><a href='#' class="btn btn-lg btn-primary">Button</a></div>
 
