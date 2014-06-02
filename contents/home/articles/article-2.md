@@ -1,7 +1,6 @@
-### Bill Article 2 Here
+### `Health Plans Assume Risk for Populations: ACOs are not the only ones performing population health.`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio. Vivamus ut nunc tortor. Ut libero ligula, placerat vitae placerat a, ullamcorper ac diam. Nam tellus massa.
-
+`Health plans wishing to achieve commercial ACO success are finding ways to utilize the data at their disposal.  Integrating claims and clinical data across the entire continuum of care requires state-of-the-art technologies.`
 [Read More][1]
 
 [1]: #
