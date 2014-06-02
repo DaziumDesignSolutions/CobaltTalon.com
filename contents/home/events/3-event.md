@@ -1,6 +1,6 @@
 ---
-date: 2014-6-1
+date: 2014-7-13
 link: http://google.com/
 ---
 
-Health Care Analytics Symposium - Piero
+`Blue Cross Blue Shield Western Operations Conference`
