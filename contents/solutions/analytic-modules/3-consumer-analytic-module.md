@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: Propensity.jpeg
 features:
   - Subsidy Calculator
   - Value Segments

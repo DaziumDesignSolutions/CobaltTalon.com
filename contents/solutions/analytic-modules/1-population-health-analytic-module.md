@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: Geo Map.png
 features:
   - `Health Stratification`
   - `Risk Scoring`
