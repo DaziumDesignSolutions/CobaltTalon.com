@@ -2,7 +2,4 @@
 title: Analytic Methodologies
 ---
 
-`Lorem` ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad `minim veniam, quis nostrud` exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. `Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.` Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-`Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
-
+`Bill what about some overview copy here to follow the same format as the other first level links. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio. Vivamus ut nunc tortor. Ut libero ligula, placerat vitae placerat a, ullamcorper ac diam. Nam tellus massa, tincidunt eget consectetur pharetra, lacinia ultrices leo. Vivamus viverra magna eu orci mollis ac blandit odio mattis. Duis libero diam, lacinia vel sollicitudin id, viverra eget libero. Praesent imperdiet venenatis ante, a porta magna semper in. In sem tellus, porta ornare congue eu, mollis eget lectus.`
