@@ -9,36 +9,22 @@ block content
     .container
       .content-area
         #home-rotator.carousel.slide(data-ride='carousel')
+          - var rotators = _.chain(contents.home.rotators._.pages).sortBy(function(item) {
+          -   var match = item.filepath.relative.match(/rotators[\/](\d+)-.*?\.md$/);
+          -   return parseInt(match[1]);
+          - }).value();
           ol.carousel-indicators
-              li.active(data-target='#home-rotator', data-slide-to='0')
-              li(data-target='#home-rotator', data-slide-to='1')
-              li(data-target='#home-rotator', data-slide-to='2')
-            .carousel-inner
-              .item.active
-                img(src=contents.images.rotators['mobile-platform.jpg'].url, alt='')
-                .item-content
-                  h3 OWEIJF WOIEF 
-                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  p.action
-                    a.btn.btn-lg.btn-primary(href='#') Button
-              .item
-                img(src=contents.images.rotators['mobile-screens.jpg'].url, alt='')
-                .item-content
-                  h3 OWEIJF WOIEF 
-                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  p.action
-                    a.btn.btn-lg.btn-primary(href='#') Button
-              .item
-                img(src=contents.images.rotators['mobile-using-grayscale.jpg'].url, alt='')
-                .item-content
-                  h3 OWEIJF WOIEF 
-                  p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  p.action
-                    a.btn.btn-lg.btn-primary(href='#') Button
-            a.left.carousel-control(href='#home-rotator', data-slide='prev')
-              span.glyphicon.glyphicon-chevron-left
-            a.right.carousel-control(href='#home-rotator', data-slide='next')
-              span.glyphicon.glyphicon-chevron-right
+            li.active(data-target='#home-rotator', data-slide-to='0')
+            li(data-target='#home-rotator', data-slide-to='1')
+            li(data-target='#home-rotator', data-slide-to='2')
+          .carousel-inner
+            each rotator, index in rotators
+              include partials/home-rotator
+
+          a.left.carousel-control(href='#home-rotator', data-slide='prev')
+            span.glyphicon.glyphicon-chevron-left
+          a.right.carousel-control(href='#home-rotator', data-slide='next')
+            span.glyphicon.glyphicon-chevron-right
 
 
 
