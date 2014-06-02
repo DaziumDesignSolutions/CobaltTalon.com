@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: MemberProfile.png
 features:
   - Cost and Use
   - Benchmarks
