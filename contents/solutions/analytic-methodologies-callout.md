@@ -1,0 +1,1 @@
+`Cobalt Talon's Analytic Module turns actionable data into confidence.`
