@@ -1,5 +1,5 @@
 ---
-image: GeoMap.png
+image: GeoMap1.png
 features:
   - Health Stratification
   - Risk Scoring
