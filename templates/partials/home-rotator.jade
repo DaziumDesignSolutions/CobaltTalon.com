@@ -1,0 +1,12 @@
+- var background = rotator.metadata.background;
+
+- if (index == 0)
+  - var item_classes = 'item active'
+- else
+  - var item_classes = 'item'
+
+div(class=item_classes)
+  img(src='/home/rotators/backgrounds/' + background, alt='')
+  .item-content
+    != rotator.html
+
