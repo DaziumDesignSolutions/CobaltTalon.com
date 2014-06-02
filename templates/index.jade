@@ -81,7 +81,7 @@ block content
         .row
           #home-articles.col-sm-6
             article!= contents.home.articles['article-1.md'].html
-            article!= contents.home.articles['article-1.md'].html
+            article!= contents.home.articles['article-2.md'].html
           #home-events.col-sm-6
             h3 Highlighted Events
             - var events = _.chain(contents.home.events._.pages).sortBy(function(item) {
