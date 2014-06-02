@@ -1,12 +1,12 @@
 ---
 image: feature-image.png
 features:
-  - Health Stratification
-  - Risk Scoring
-  - Care Guidelines
-  - Health Risk Assessment
-  - Program Engagement
-  - Propensity to Consume
+  - `Health Stratification`
+  - `Risk Scoring`
+  - `Care Guidelines`
+  - `Health Risk Assessment`
+  - `Program Engagement`
+  - `Propensity to Consume`
 ---
 
 ### Population Health Analytic Module
