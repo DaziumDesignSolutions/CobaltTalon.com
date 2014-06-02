@@ -1,9 +1,6 @@
 ---
-features:
-  - Feature One
-  - Feature Two
-  - Feature Three
-  - Feature Four
+image: feature-image.png
+sidebar: generic-list.md
 ---
 
 ### Excepteur Voluptate

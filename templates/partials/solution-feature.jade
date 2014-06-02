@@ -1,15 +1,26 @@
-- var idx = feature.filepath.relative.lastIndexOf('/')
-- var image_url = '/' + feature.filepath.relative.slice(0,idx) + '/' + feature.metadata.image
+- var idx = feature.filepath.relative.lastIndexOf('/');
+- var path = feature.filepath.relative.slice(0,idx);
+- var image_url = '/' + path + '/' + feature.metadata.image;
+- var sidebar = false;
+- if (typeof feature.metadata.sidebar !== "undefined") {
+-   sidebar = feature.parent.sidebars[feature.metadata.sidebar]
+- }
+
 
 .content-area
   .solution-feature
     .row
-      .col-sm-2
-        img.img-responsive(src=image_url)
-      .col-sm-7
-        != feature.html
-      .col-sm-3
-        ul.list-unstyled.feature-list
-          each item in feature.metadata.features
-            li!= item
+      - if (sidebar)
+        .col-sm-2
+          img.img-responsive(src=image_url)
+        .col-sm-7
+          != feature.html
+        .col-sm-3
+          != sidebar.html
+      - else
+        .col-sm-4
+          img.img-responsive(src=image_url)
+        .col-sm-8
+          != feature.html
+
 

@@ -1,12 +1,6 @@
 ---
 image: GeoMap1.png
-features:
-  - Health Stratification
-  - Risk Scoring
-  - Care Guidelines
-  - Health Risk Assessment
-  - Program Engagement
-  - Propensity to Consume
+sidebar: pop-health-sidebar.md
 ---
 
 ### Population Health Analytic Module

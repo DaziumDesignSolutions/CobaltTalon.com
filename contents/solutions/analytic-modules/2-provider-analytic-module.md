@@ -1,12 +1,6 @@
 ---
 image: MemberProfile.png
-features:
-  - Cost and Use
-  - Benchmarks
-  - Physician
-  - Pharmacy
-  - Outpatient
-  - Inpatient
+sidebar: provider-analytic-module-sidebar.md
 ---
 
 ### Provider Analytic Module

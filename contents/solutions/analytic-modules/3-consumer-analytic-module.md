@@ -1,12 +1,6 @@
 ---
 image: Propensity.png
-features:
-  - Subsidy Calculator
-  - Value Segments
-  - Consumer Segments
-  - Prospect Modeling
-  - Geo-Mapping
-  - Propensity to Buy
+sidebar: analytic-module-sidebar.md
 ---
 
 ### Consumer Analytic Module

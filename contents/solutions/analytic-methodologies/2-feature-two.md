@@ -1,10 +1,6 @@
 ---
 image: feature-image.png
-features:
-  - Feature One
-  - Feature Two
-  - Feature Three
-  - Feature Four
+sidebar: generic-list.md
 ---
 
 ### Risk Adjustment
