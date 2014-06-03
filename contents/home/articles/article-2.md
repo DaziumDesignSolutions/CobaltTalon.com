@@ -1,4 +1,4 @@
-### `Big Data: Daunting`
+### Big Data: Daunting
 
 According to the ECRI Institue’s Top 10 Patient and Saftey Concerns for Healthcare Organizations, healthcare systems are struggling to adopt “big data” technologies. https://www.ecri.org/EmailResources/PSRQ/Top10/Top10PSRQ.pdf
 
