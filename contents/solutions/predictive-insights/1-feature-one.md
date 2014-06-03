@@ -3,9 +3,9 @@ image: feature-image.png
 sidebar: generic-list.md
 ---
 
-### Excepteur Voluptate
+### Agile Analytics
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The advantages of agile analytics approach are significant given the rate of change and uncertainty that remain as the industry moves towards a more accountable, value-based care system. Enabling project scope to be shortened dramatically, an agile analytics approach accelerates a healthcare company’s ability to address immediate business issues and helps mitigate the disruption to business operations.
 
 [Overview]
 

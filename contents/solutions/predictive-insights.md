@@ -1,8 +1,9 @@
 ---
-title: Analytic Methodologies
+title: Predictive Insight
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The advantages of predictive insights are significant given the rate of change and uncertainty that remain as the industry moves towards a more accountable, value-based care system.
+•  Predictive insight accelerates a healthcare company’s ability to address immediate business issues and helps mitigate the disruption to business operations.
+•  Predictive insight allows healthcare leaders to leverage existing internal data assets alongside valuable external data to develop critical institutional knowledge.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ `Predictive insight can prove to be invaluable toward the advancement of leveraging big data to its utmost potential.`

@@ -1,8 +1,9 @@
 ---
-title: Analytic Methodologies
+title: Analytic Platform
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Facing challenges such as industry-changing legislation, new competitive threats, and constant requirements to more efficiently and effectively deliver healthcare; Health Plans and ACOs are asking – how can we leverage and turn vast amounts of data into actionable business insights. More specifically, how can we develop and deploy the technical infrastructure and data-driven analytic capability that supports the new business to consumer marketing and value-based healthcare delivery models.
+ 
+Cobalt Talon’s solutions cover the entire spectrum from data integration and data enrichment to intuitive dashboards and analytic consulting, which help healthcare organizations thrive in the face of unstable events fueled predominantly by legislative mandates and various CMS / Commercial payer initiatives.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Cobalt Talon helps healthcare organizations transform data into a strategic asset by providing expert data management services and high performance analytic solutions.

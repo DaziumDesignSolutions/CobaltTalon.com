@@ -3,9 +3,12 @@ image: feature-image.png
 sidebar: generic-list.md
 ---
 
-### Excepteur Voluptate
+### BI and DW Consulting
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+While Cobalt Talon’s expertise, capabilities and ability to staff are fairly broad, we primarily focus on several key offerings:
+•  Assessments and Recommendations
+•  Strategy and Roadmaps
+•  Custom Solutions and Engagements
 
 [Overview]
 

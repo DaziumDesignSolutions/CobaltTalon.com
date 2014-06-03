@@ -7,9 +7,11 @@ features:
   - Feature Four
 ---
 
-### Excepteur Voluptate
+### Implementation Services
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+`We need new copy that applies to analytic module implementation services - lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio.`
+•  Data Acquisition
+•  Custom Reporting and Dashboards
 
 [Overview]
 

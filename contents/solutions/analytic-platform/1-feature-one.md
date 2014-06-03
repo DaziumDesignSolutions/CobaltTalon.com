@@ -3,9 +3,11 @@ image: feature-image.png
 sidebar: generic-list.md
 ---
 
-### Excepteur Voluptate
+### Targeted Predictive Analytic Solutions
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A trusted healthcare analytic solutions and best-in-class IT infrastructure operating as an extension of your organization. You provide us access to your data, we analyze and solve the problem at hand, and provide you with a secure, web-/mobile-based portal to review the results and answers. No new hardware or software purchases required.
+ 
+Microstrategy Business Intelligence Software and Teradata Data Warehousing Appliance (Gartner Group Magic Quadrant Leader)
 
 [Overview]
 

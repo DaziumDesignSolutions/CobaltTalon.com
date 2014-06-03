@@ -1,8 +1,9 @@
 ---
-title: Analytic Methodologies
+title: Data Enrichment Services
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We leverage several highly effective and proven healthcare data classifications and algorithms to further enrich your data. These best-in-class data groupers and analytic methodologies are made available through our partnerships with industry leading organizations such as Milliman, Cave Consulting Group and RxResults.
+ 
+Cobalt Talon readily provides expert services geared to helping our customers successfully implement and draw business insights from their data groupers and analytic methodologies.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Our Data Enrichment Services are designed to help our customers derive value from their new analytic capabilities.

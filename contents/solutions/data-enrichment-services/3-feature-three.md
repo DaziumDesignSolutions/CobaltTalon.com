@@ -3,9 +3,9 @@ image: feature-image.png
 sidebar: generic-list.md
 ---
 
-### Excepteur Voluptate
+### Reduce Cost and Improve Quality
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Utilizes a comprehensive suite of sophisticated, informatics-powered, evidence-based clinical tools that meaningfully reduce the cost and improve the quality of their pharmacy benefits.  Within formulary management services and the underlying analysis involved, a concentration in certain therapeutic drug categories is particularly important. There are often several drug choices within a particular category of drugs. Many times these drugs are therapeutically equivalent or one drug may be preferred over another as the first line of therapy. These drug categories are where we focus our analytic efforts.
 
 [Overview]
 

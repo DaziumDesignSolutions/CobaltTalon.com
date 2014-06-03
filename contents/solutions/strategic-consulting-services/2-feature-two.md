@@ -3,9 +3,12 @@ image: feature-image.png
 sidebar: generic-list.md
 ---
 
-### Excepteur Voluptate
+### Health Care Analytics Consulting
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We offer our clients consulting services around health care analytics. These may be part of the above BI, and DW services or as a stand-alone offering. These offerings will be customized for our clients but will center on how to make best use if BI and analytics in the new health care environment.
+•  Consumer Analytics
+•  Population Health Analytics
+•  Provider Analytics
 
 [Overview]
 
