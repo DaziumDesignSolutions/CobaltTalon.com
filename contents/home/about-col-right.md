@@ -1,3 +1,3 @@
 ## `Important Real Estate Headline`
 
-`Bill... CT about us text... lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio. Vivamus ut nunc tortor. Ut libero ligula, placerat vitae placerat a, ullamcorper ac diam. Nam tellus massa, tincidunt eget consectetur pharetra.`
+Cobalt Talon helps healthcare organizations transform data into a strategic asset by providing expert data management services and high performance analytic solutions.  Our solutions cover the entire spectrum from data integration and data enrichment to intuitive dashboards and analytic consulting, which help healthcare organizations thrive in the face of unstable events fueled predominantly by legislative mandates and various CMS / Commercial payer initiatives.

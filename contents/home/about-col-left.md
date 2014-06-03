@@ -1,3 +1,3 @@
 ## `Important Real Estate Headline`
 
-`Bill... CT about us text... lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio. Vivamus ut nunc tortor. Ut libero ligula, placerat vitae placerat a, ullamcorper ac diam. Nam tellus massa, tincidunt eget consectetur pharetra.`
+Facing challenges such as industry-changing legislation, new competitive threats, and constant requirements to more efficiently and effectively deliver healthcare; Health Plans and ACOs are asking – how can we leverage and turn vast amounts of data into actionable business insights.  More specifically, how can we develop and deploy the technical infrastructure and data-driven analytic capability that supports the new business to consumer marketing and value-based healthcare delivery models.
