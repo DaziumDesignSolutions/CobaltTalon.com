@@ -9,4 +9,4 @@ Integrates and transforms healthcare claims and clinical data via a unique combi
 
 [Overview]
 
-[Overview]: http://google.com
+[Overview]: /solutions/analytic-platform.html
