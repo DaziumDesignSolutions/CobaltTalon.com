@@ -1,5 +1,5 @@
 ---
-image: 459953815-PopulationData.png
+image: 459953815-PopulationData.jpg
 sidebar: generic-list.md
 ---
 

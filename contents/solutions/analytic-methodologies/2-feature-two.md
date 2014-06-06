@@ -1,5 +1,5 @@
 ---
-image: 465187851-IpadOverhead.png
+image: 465187851-IpadOverhead.jpg
 sidebar: generic-list.md
 ---
 
