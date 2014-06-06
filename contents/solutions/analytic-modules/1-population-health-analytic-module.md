@@ -1,5 +1,5 @@
 ---
-image: 480070051-Consulting.jpg
+image: 164125422-IpadGraphs.jpg
 sidebar: pop-health-sidebar.md
 ---
 

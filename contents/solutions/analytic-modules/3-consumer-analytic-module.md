@@ -1,5 +1,5 @@
 ---
-image: 164125422-IpadGraphs.jpg
+image: 480070051-Consulting.jpg
 sidebar: analytic-module-sidebar.md
 ---
 
