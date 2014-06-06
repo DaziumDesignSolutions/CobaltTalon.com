@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 186469118-DNA.jpg
 sidebar: generic-list.md
 ---
 
