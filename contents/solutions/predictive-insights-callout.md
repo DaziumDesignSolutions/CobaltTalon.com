@@ -1,0 +1,1 @@
+`Predicting results accurately, means you can make the right decisions quickly and further reduce risk.`

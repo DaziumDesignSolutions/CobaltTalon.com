@@ -1,11 +1,13 @@
 ---
 image: feature-image.png
-sidebar: generic-list.md
 ---
 
-### Agile Analytics
+### `Reliable Answers`
 
-The advantages of agile analytics approach are significant given the rate of change and uncertainty that remain as the industry moves towards a more accountable, value-based care system. Enabling project scope to be shortened dramatically, an agile analytics approach accelerates a healthcare company’s ability to address immediate business issues and helps mitigate the disruption to business operations.
+• Automated predictive insights services – The models are created within a fraction of the time and performed by predictive modeling experts
+• Go beyond traditional what-if approaches – Explore hundreds of combinations of factors and analyze possible outcomes for significantly less cost.
+• Identify the factors with the most impact - Quickly identify the factors in your model with the greatest impact on business outcomes.
+• Achieve better outcomes – Predicting results accurately, means you can make the right decisions quickly and further reduce risk.
 
 [Overview]
 

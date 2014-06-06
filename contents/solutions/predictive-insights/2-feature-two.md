@@ -1,18 +1,15 @@
 ---
 image: feature-image.png
-sidebar: generic-list.md
 ---
 
-### Business Opportunities
+### `Gain Competitive Advantage`
 
-The advantages of agile analytics approach are significant given the rate of change and uncertainty that remain as the industry moves towards a more accountable, value-based care system. Enabling project scope to be shortened dramatically, an agile analytics approach accelerates a healthcare company’s ability to address immediate business issues and helps mitigate the disruption to business operations.
-Overview
+1. Prioritize outreach programs based on potential cost, consumption, and risk
+2. Maximize contact rates for outreach programs and care management vendors
+3. Create targeted health improvement campaigns and employer wellness programs
+4. Showcase care management programs based upon value segments, cost levels and risk
+5. Identify and predict cost, risk and quality at consumer and provider levels
 
-•  Re-admission rates
-•  Upcoming medical procedures
-•  Identify chronic conditions
-•  Unnecessary costs or inefficient care
+[Use Case Example]
 
-[Overview]
-
-[Overview]: http://google.com
+[Use Case Example]: http://google.com
