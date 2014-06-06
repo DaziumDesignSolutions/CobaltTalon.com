@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 478061307-IpadCT.jpg
 sidebar: generic-list.md
 ---
 
