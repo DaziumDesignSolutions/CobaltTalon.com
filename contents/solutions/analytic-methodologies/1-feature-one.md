@@ -1,5 +1,5 @@
 ---
-image: 186469118-DNA.jpg
+image: 544946593-classifications.jpg
 sidebar: generic-list.md
 ---
 
