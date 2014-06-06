@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 484108557.jpg
 ---
 
 ### `Reliable Answers`

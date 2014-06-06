@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 180775335.jpg
 ---
 
 ### `Gain Competitive Advantage`
