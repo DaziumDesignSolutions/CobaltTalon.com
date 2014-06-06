@@ -2,4 +2,4 @@
 icon: icon-provideranalytics.png
 ---
 
-#### Population Analytic Module
+#### `Population Analytic Module`

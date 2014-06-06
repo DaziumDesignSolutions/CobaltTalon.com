@@ -1,6 +1,6 @@
 ---
 image: 478061307-IpadCT.jpg
-sidebar: generic-list.md
+sidebar: overview.jpg
 ---
 
 ### Targeted Predictive Analytic Solutions

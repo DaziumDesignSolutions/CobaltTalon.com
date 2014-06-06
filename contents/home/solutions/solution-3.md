@@ -2,4 +2,4 @@
 icon: icon-consumeranalytics.png
 ---
 
-#### Consumer Analytic Module
+#### `Consumer Analytic Module`
