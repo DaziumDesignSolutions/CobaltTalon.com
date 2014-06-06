@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 477415119-reducecost.jpg
 sidebar: generic-list.md
 ---
 

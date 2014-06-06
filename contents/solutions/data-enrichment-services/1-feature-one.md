@@ -1,5 +1,5 @@
 ---
-image: feature-image.png
+image: 453896205.jpg
 sidebar: generic-list.md
 ---
 
