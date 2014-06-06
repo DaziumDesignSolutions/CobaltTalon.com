@@ -1,5 +1,5 @@
 ---
-image: GeoMap1.png
+image: 480070051-Consulting.jpg
 sidebar: pop-health-sidebar.md
 ---
 

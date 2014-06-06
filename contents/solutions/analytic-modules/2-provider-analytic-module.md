@@ -1,5 +1,5 @@
 ---
-image: MemberProfile.png
+image: 175129682-DoctorIpad.jpg
 sidebar: provider-analytic-module-sidebar.md
 ---
 
