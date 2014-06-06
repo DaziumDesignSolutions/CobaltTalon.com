@@ -1,5 +1,5 @@
 ---
-image: Propensity.png
+image: 164125422-IpadGraphs.jpg
 sidebar: analytic-module-sidebar.md
 ---
 
