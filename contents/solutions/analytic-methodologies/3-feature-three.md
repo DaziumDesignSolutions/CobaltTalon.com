@@ -1,6 +1,6 @@
 ---
 image: 459953815-PopulationData.jpg
-sidebar: generic-list.md
+
 ---
 
 ### Normative Data
