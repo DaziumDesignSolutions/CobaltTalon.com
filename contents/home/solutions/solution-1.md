@@ -2,4 +2,4 @@
 icon: icon-pophealth.png
 ---
 
-#### `Population Analytic Module`
+#### Population Analytic Module

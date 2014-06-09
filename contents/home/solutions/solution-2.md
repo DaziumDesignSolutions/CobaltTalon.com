@@ -2,4 +2,4 @@
 icon: icon-provideranalytics.png
 ---
 
-#### `Provider Analytic Module`
+#### Provider Analytic Module

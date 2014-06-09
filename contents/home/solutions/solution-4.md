@@ -2,4 +2,4 @@
 icon: icon-predmodel.png
 ---
 
-#### `Predictive Insights`
+#### Predictive Insights
