@@ -1,10 +1,6 @@
 ---
 image: 479607145.jpg
-features:
-  - Feature One
-  - Feature Two
-  - Feature Three
-  - Feature Four
+features: Implementation.md
 ---
 
 ### Implementation Services
