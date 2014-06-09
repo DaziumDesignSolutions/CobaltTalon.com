@@ -1,12 +1,11 @@
 ---
 image: 479607145.jpg
-features: Implementation.md
+sidebar: Implementation.md
 ---
 
 ### Implementation Services
 
-`We need new copy that applies to analytic module implementation services - lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio.`
-
+`BILL WILL PROVIDE COPY`
 [Overview]
 
 [Overview]: http://google.com
