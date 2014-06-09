@@ -1,5 +1,5 @@
 ---
-title: Analytic Methodologies
+title: Analytic Methodologies: CLINICAL CLASSIFICATIONS, RISK ADJUSTMENT, NORMATIVE DATA, AND MORE...
 ---
 
-`Bill what about some overview copy here to follow the same format as the other first level links. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, rhoncus nec dignissim eu, porta a odio. Vivamus ut nunc tortor. Ut libero ligula, placerat vitae placerat a, ullamcorper ac diam. Nam tellus massa, tincidunt eget consectetur pharetra, lacinia ultrices leo. Vivamus viverra magna eu orci mollis ac blandit odio mattis. Duis libero diam, lacinia vel sollicitudin id, viverra eget libero. Praesent imperdiet venenatis ante, a porta magna semper in. In sem tellus, porta ornare congue eu, mollis eget lectus.`
+Cobalt Talon develops highly effective analytics methods to enrich your raw data by incorporating several best-in-class methodologies offered by companies that include: Milliman, Cave Consulting Group and RxResults.
