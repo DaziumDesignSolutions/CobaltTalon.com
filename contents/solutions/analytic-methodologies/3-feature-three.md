@@ -1,5 +1,5 @@
 ---
-image: 459953815-PopulationData.jpg
+image: 159328125-doctor.jpg
 
 ---
 
