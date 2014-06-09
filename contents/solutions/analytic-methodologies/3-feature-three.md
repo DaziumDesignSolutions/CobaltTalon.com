@@ -3,9 +3,9 @@ image: 459953815-PopulationData.jpg
 
 ---
 
-### Normative Data
+### Provider Efficiency Scoring
 
-We leverage one of the healthcare industry’s largest normative databases, which includes contributors such as national payers, large employers and CMS. The empirical database contains more than 30 million lives and 2 billion records of medical claims, pharmaceutical claims, and eligibility information. The benchmark comparisons include points from loosely managed care to well-managed care.
+Cobalt Talon utilizes a provider efficiency scoring solution that compares physician efficiencies against both peer groups and standard expected protocol ranges. Output from this methodology can be used to facilitate data-driven discussions with both primary care and specialty care physicians to enable greater efficiency levels into the future.
 [Overview]
 
 [Overview]: http://google.com
