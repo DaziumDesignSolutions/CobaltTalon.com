@@ -1,4 +1,3 @@
-* `Feature One`
-* `Feature Two`
-* `Feature Three`
-* `Feature Four`
+* Data Acquisition
+* Custom Reporting and Dashboards
+
