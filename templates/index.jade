@@ -38,30 +38,9 @@ block content
 
       #home-solutions-overview.content-area
         .row
-          .col-sm-3
-            .solution-overview
-              - var content = contents.home.solutions['solution-1.md']
-              .icon
-                img(src='/images/' + content.metadata.icon)
-              != content.html
-          .col-sm-3
-            .solution-overview
-              - var content = contents.home.solutions['solution-2.md']
-              .icon
-                img(src='/images/' + content.metadata.icon)
-              != content.html
-          .col-sm-3
-            .solution-overview
-              - var content = contents.home.solutions['solution-3.md']
-              .icon
-                img(src='/images/' + content.metadata.icon)
-              != content.html
-          .col-sm-3
-            .solution-overview
-              - var content = contents.home.solutions['solution-4.md']
-              .icon
-                img(src='/images/' + content.metadata.icon)
-              != content.html
+          - var solutions = contents.home.solutions._.pages
+          each solution in solutions
+            include partials/home-solution
 
       #home-articles-and-events.content-area
         .row

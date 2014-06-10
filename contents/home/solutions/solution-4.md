@@ -1,8 +1,6 @@
 ---
 icon: icon-predmodel.png
-Link: http://cobalttalon.staging.dazium.com/solutions/analytic-modules.html
+link: /solutions/analytic-modules.html
 ---
 
-#### [Predictive Insights]
-
-[Predictive Insights]: http://cobalttalon.staging.dazium.com/solutions/analytic-modules.html
+#### Predictive Insights

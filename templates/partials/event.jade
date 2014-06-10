@@ -1,7 +1,8 @@
 - var date = event.metadata.date
 - var date_formatted = moment(date).utc().format('MMMM Do, YYYY')
+- var content = event
 header
   time(datetime=date)= date_formatted
 .content
-  a(href=content.link)!= event.html
+  a(href=content.link)!= content.html
 
