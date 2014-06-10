@@ -7,7 +7,7 @@ sidebar: BIandDW.md
 
 While Cobalt Talon’s expertise, capabilities and ability to staff are fairly broad, we primarily focus on several key offerings.
 
-#Assessment and Recommendations
+###Assessment and Recommendations
 Assessment and Recommendation (Assessment) engagements are short, specific, targeted engagements designed to provide high level documentation of and recommendations for one or more specific targeted areas. While the specific areas for assessment and recommendations can be tailored to an individual customer’s needs, the following are the most common type of assessments and can be done together in combination:
 
 • Best Practices/Benchmarking – CT will compare the customer’s current solution to industry best practices in relevant areas including, technology, process, organization, etc., and make recommendations on areas to improve as well as where industry best practices are not relevant and investments are not needed.
@@ -18,10 +18,10 @@ Assessment and Recommendation (Assessment) engagements are short, specific, targ
 
 • Solution Alternatives – If business needs or opportunities have been identified, this effort identifies a range of solutions to satisfy the requirements, and makes recommendations around which solutions provide the most value compared to the current and expected business needs.
 
-#Strategy and Roadmap
+###Strategy and Roadmap
 Strategy and Roadmap engagements are designed to provide the customer an actionable plan to achieve their goals in a cost efficient manner. The strategy development effort is a planning initiative that defines the collective vision. CT analyzes the business, operational, and technical opportunities and develops them into a single, comprehensive, multi-phased implementation plan. The process produces tangible recommendations for the functional, data, technical, and organizational components of the solution.
 
-#Custom Solutions and Engagements
+###Custom Solutions and Engagements
 Cobalt Talon will add value and expertise using our resources and those of our partners in order to take on select engagements to assist our customers. These engagements may be purely technical in nature, may be of process and leadership, or a combination thereof. Primary factors in deciding which engagements to pursue will include our ability to solve the client’s problems combined our ability to utilize the existing Cobalt Talon resource’s skill sets.
 
 
