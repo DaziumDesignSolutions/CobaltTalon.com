@@ -1,6 +1,6 @@
 ---
 date: 2014-6-23
-link: http://google.com/
+link: https://www.healthcare-conferences.com/conference.aspx?ccode=H224B
 ---
 
 ACO Performance Analytics Data Managment Summit
