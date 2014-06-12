@@ -1,3 +1,3 @@
-* Assessments and Recommendations
-* Strategy and Roadmaps
-* Customer Solutions and Engagements
+* Solutions You Can Trust
+* Proven Record of Success
+* Healthcare Domain Expertise 
