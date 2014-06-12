@@ -7,6 +7,8 @@ sidebar: BIandDW.md
 
 While Cobalt Talon’s expertise, capabilities and ability to staff are fairly broad, we primarily focus on several key offerings.
 
+We can help you establish or enhance your data management vision and strategy with services that bridge the gap between your organization’s business objectives and technical solutions that give your business better access to the information it needs.  Our resource’s experience in technical and business units in and outside of healthcare gives us a unique ability to ensure that the technical solutions rapidly add value to the business organization. 
+
 ###Assessment and Recommendations
 Assessment and Recommendation (Assessment) engagements are short, specific, targeted engagements designed to provide high level documentation of and recommendations for one or more specific targeted areas. While the specific areas for assessment and recommendations can be tailored to an individual customer’s needs, the following are the most common type of assessments and can be done together in combination:
 
