@@ -37,6 +37,3 @@ If preferred Cobalt Talon will assist our customers with the development of the 
 ###Governance Services
 `DROP DOWN -Because our customers will have better access to more data than they have ever had before, governance of the data, how it is used, and what it means will be more critical than ever. CT will assist our customers with this challenge through professional services engagements. These offerings are generally priced on a T&M basis, but with limited scope can be done on a fixed fee basis.
 `
-[Overview]
-
-[Overview]: http://google.com
