@@ -30,17 +30,13 @@ If preferred Cobalt Talon will assist our customers with the development of the 
 ###Enhanced Training
 'DROP DOWN -With each analytic product implementation Cobalt Talon provides a base level of training for users and power users. This training includes train the trainer and CBT user training. However, we offer additional live user training during implementation or post-implementation as new users gain access. We will also offer training customized to the customer’s specifics, such as their data or any custom reports created for them.
 '
-###POST IMPLEMENTATION SERVICES:
-Cobalt Talon will offer additional services post implementation, either on an ongoing on one-time basis. These services are designed to ensure that our customers maximize the value they receive from CT solutions.
-
-###Report/Dashboard Development`
-CT can develop additional dashboards, reports, or analytical modules. The can be on a one-time fee based implementation, or ongoing retainer based, where a certain number of hours are dedicated to the customer. Retainer based services can be included in additional PMPM or via separate monthly charges.
 
 ###Value Realization
-CT will assess the value realized by the CT SaaS implementation and make recommendations on how to make enhance the value. As an assessment, the deliverable will produce actionable recommendations. CT will also offer engagements to help our customers implement the recommendations. Theses engagements will be done on a T&M or fixed fee basis.
-
+`DROP DOWN -CT will assess the value realized by the CT SaaS implementation and make recommendations on how to make enhance the value. As an assessment, the deliverable will produce actionable recommendations. CT will also offer engagements to help our customers implement the recommendations. Theses engagements will be done on a T&M or fixed fee basis.
+`
 ###Governance Services
-Because our customers will have better access to more data than they have ever had before, governance of the data, how it is used, and what it means will be more critical than ever. CT will assist our customers with this challenge through professional services engagements. These offerings are generally priced on a T&M basis, but with limited scope can be done on a fixed fee basis.
+`DROP DOWN -Because our customers will have better access to more data than they have ever had before, governance of the data, how it is used, and what it means will be more critical than ever. CT will assist our customers with this challenge through professional services engagements. These offerings are generally priced on a T&M basis, but with limited scope can be done on a fixed fee basis.
+`
 [Overview]
 
 [Overview]: http://google.com
