@@ -5,18 +5,15 @@ sidebar: analytic-module-sidebar.md
 
 ### Analytic Module Services
 
-With each analytic product offering - Cobalt Talon provides a baseline set of implementation services. However, there are many value-added services that are offered to assist our customers with implementation and value realization of the solution.`
-Data Acquisition
+With each analytic product offering - Cobalt Talon provides a baseline set of implementation services. However, there are many value-added services that are offered to assist our customers with implementation and value realization of the solution.
 
-In the standard product implementation, the customer is responsible for delivering the data in the format specified to Cobalt Talon. CT then works with the customer to test and validate the data. CT will offer our customers enhanced data acquisition services:
+In the standard product implementation, the customer is responsible for delivering the data in the format specified to Cobalt Talon. Cobalt Talon then works with the customer to test and validate the data. Cobalt Talon will offer our customers enhanced data acquisition services:
 
-• Cobalt Talon Developed – Cobalt Talon can assist our
 Strategic Consulting Services
+• ####Cobalt Talon Developed – Cobalt Talon can assist our customers with the development of the data extraction components. While the specific approach of this model can be modified to suit the customer’s capabilities and desires, in general Cobalt Talon will lead the development of the Data Acquisition process. The customer will assist Cobalt Talon with understanding the customer technical topology and source systems, as well as data accuracy testing. The customer can lead other technical components as agreed upon. Cobalt Talon will make use of the customer’s processes and technology and the customer will take ownership of the data acquisition process after an agreed upon transition effort and timeline.
 
-customers with the development of the data extraction components. While the specific approach of this model can be modified to suit the customer’s capabilities and desires, in general Cobalt Talon will lead the development of the Data Acquisition process. The customer will assist Cobalt Talon with understanding the customer technical topology and source systems, as well as data accuracy testing. The customer can lead other technical components as agreed upon. Cobalt Talon will make use of the customer’s processes and technology and the customer will take ownership of the data acquisition process after an agreed upon transition effort and timeline.
-
-• Cobalt Talon Managed – The Cobalt Talon Managed model is similar to the Cobalt Talon Developed model, except the Cobalt Talon will use our technology to build the processes and will continue the management of the data acquisition process for the duration. The customer will be responsible for assisting with data accuracy testing and processes as well as planning any source system changes that would require a modification to the data acquisition process.
-###Custom Reporting and Dashboards`
+• ####Cobalt Talon Managed – The Cobalt Talon Managed model is similar to the Cobalt Talon Developed model, except the Cobalt Talon will use our technology to build the processes and will continue the management of the data acquisition process for the duration. The customer will be responsible for assisting with data accuracy testing and processes as well as planning any source system changes that would require a modification to the data acquisition process.
+###Custom Reporting and Dashboards
 Customers receive a baseline set of reports and dashboards with product implementation and will have access to new items per the product roadmap and release schedule. Customers can also make use of a self-service model to refine or create new reports and dashboards. Customers can also engage CT to develop customized reports and dashboards. These can be priced by T&M or fixed price per object. Also, CT will provide implementation services around MicroStrategy tools such as MicroStrategy Office and Narrowcast.
 
 Datamart/Analytics Implementation – For customers that use the CT EDW solution, we can provide services that assist our customers in creating environments for their specific needs. This includes:
