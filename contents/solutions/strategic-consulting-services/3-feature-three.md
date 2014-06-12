@@ -5,7 +5,28 @@ sidebar: Implementation.md
 
 ### Implementation Services
 As expert implementers, we specialize in the high-volume and complex data environments that characterize healthcare organizations. Our solutions are practical, based on our real-world experience, and architected to be durable for the long term. We leverage a proven set of methodologies and accelerators to increase quality, reduce time, and mitigate risk. We are committed to maintaining expert advantage by attracting and retaining experienced, industry leaders.
+Cobalt Talon believes that the key factor which differentiates us from our competition is our ability to partner with our clients to help them achieve better results in less time for less total cost.  Cobalt Talon’s extensive experience in health care data management allows us to propose superior designs and rapid implementation timeframes to help to reduce the total investment.  In addition, our proposed solutions focus on the primary tenets of scalability, reliability, and flexibility.  This ensures that our solutions are designed to limit rework and to reduce operational/expansion expense.
+• Information Integration
+`KARA MAKE DROP DOWN - Cobalt Talon can help provide the bridge between the data you have and the information you need for better decision making and enhanced business performance. Our skills encompass the full range of disciplines – from data acquisition, data cleansing and transformation to data modeling and data warehouse design, to governance models and warehouse administration. We can integrate data across channels and business units, connect legacy applications to leverage existing data, and integrate stovepipe data warehouses using state-of-the-art approaches and tools.`
+• Information Delivery
+`KARA MAKE DROP DOWN - Information Delivery services deliver information to the proper audiences within and beyond your enterprise to improve overall decision making and enhance business performance. Capabilities span the range from enterprise analytics and reporting to OLAP and data visualization.`
+• Information Quality
+`KARA MAKE DROP DOWN - 'Information Quality services improve the accuracy and reliability of your data to protect the viability of your investment in systems through increased user confidence and reduced development costs. Capabilities include master data management, metadata, data profiling, and certification and verification of data.`
 
+
+`APPLY TO PRODUCT - `
+
+`With each analytic product offering - Cobalt Talon provides a baseline set of implementation services. However, there are many value-added services that are offered to assist our customers with implementation and value realization of the solution.`
+`Data Acquisition`
+
+`In the standard product implementation, the customer is responsible for delivering the data in the format specified to Cobalt Talon. CT then works with the customer to test and validate the data. CT will offer our customers enhanced data acquisition services:`
+
+`• Cobalt Talon Developed – Cobalt Talon can assist our`
+`Strategic Consulting Services`
+
+`customers with the development of the data extraction components. While the specific approach of this model can be modified to suit the customer’s capabilities and desires, in general Cobalt Talon will lead the development of the Data Acquisition process. The customer will assist Cobalt Talon with understanding the customer technical topology and source systems, as well as data accuracy testing. The customer can lead other technical components as agreed upon. Cobalt Talon will make use of the customer’s processes and technology and the customer will take ownership of the data acquisition process after an agreed upon transition effort and timeline.`
+
+`• Cobalt Talon Managed – The Cobalt Talon Managed model is similar to the Cobalt Talon Developed model, except the Cobalt Talon will use our technology to build the processes and will continue the management of the data acquisition process for the duration. The customer will be responsible for assisting with data accuracy testing and processes as well as planning any source system changes that would require a modification to the data acquisition process.`
 `###Custom Reporting and Dashboards`
 `Customers receive a baseline set of reports and dashboards with product implementation and will have access to new items per the product roadmap and release schedule. Customers can also make use of a self-service model to refine or create new reports and dashboards. Customers can also engage CT to develop customized reports and dashboards. These can be priced by T&M or fixed price per object. Also, CT will provide implementation services around MicroStrategy tools such as MicroStrategy Office and Narrowcast.`
 
@@ -40,16 +61,3 @@ As expert implementers, we specialize in the high-volume and complex data enviro
 `
 `[Overview]: http://google.com
 `
-`APPLY TO PRODUCT - `
-
-`With each analytic product offering - Cobalt Talon provides a baseline set of implementation services. However, there are many value-added services that are offered to assist our customers with implementation and value realization of the solution.`
-`Data Acquisition`
-
-`In the standard product implementation, the customer is responsible for delivering the data in the format specified to Cobalt Talon. CT then works with the customer to test and validate the data. CT will offer our customers enhanced data acquisition services:`
-
-`• Cobalt Talon Developed – Cobalt Talon can assist our`
-`Strategic Consulting Services`
-
-`customers with the development of the data extraction components. While the specific approach of this model can be modified to suit the customer’s capabilities and desires, in general Cobalt Talon will lead the development of the Data Acquisition process. The customer will assist Cobalt Talon with understanding the customer technical topology and source systems, as well as data accuracy testing. The customer can lead other technical components as agreed upon. Cobalt Talon will make use of the customer’s processes and technology and the customer will take ownership of the data acquisition process after an agreed upon transition effort and timeline.`
-
-`• Cobalt Talon Managed – The Cobalt Talon Managed model is similar to the Cobalt Talon Developed model, except the Cobalt Talon will use our technology to build the processes and will continue the management of the data acquisition process for the duration. The customer will be responsible for assisting with data accuracy testing and processes as well as planning any source system changes that would require a modification to the data acquisition process.`
