@@ -1,5 +1,5 @@
 ---
-image: 480070051-Consulting.jpg
+image: 180462622-implement.jpg
 sidebar: analytic-module-sidebar.md
 ---
 
