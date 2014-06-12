@@ -3,7 +3,7 @@ image: 480070051-Consulting.jpg
 sidebar: analytic-module-sidebar.md
 ---
 
-
+### Analytic Module Services
 
 With each analytic product offering - Cobalt Talon provides a baseline set of implementation services. However, there are many value-added services that are offered to assist our customers with implementation and value realization of the solution.`
 Data Acquisition
