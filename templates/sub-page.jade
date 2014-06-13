@@ -7,11 +7,18 @@ block title
   - var content = contents[subdir][cfname + '.md'];
   - var callout = contents[subdir][cfname + '-callout.md'];
 
-  - var features = _.chain(contents[subdir][cfname]._.pages).sortBy(function(item) {
-  -   var ptn = RegExp(subdir + '/' + cfname + '/' + '(\\d+)-.*');
-  -   var match = item.filepath.relative.match(ptn);
-  -   return parseInt(match[1]);
-  - }).value();
+  //- var features = _.chain(contents[subdir][cfname]._.pages).sortBy(function(item) {
+  - var features = contents[subdir][cfname]
+  - if (typeof features !== "undefined") {
+  -   var features = _.chain(features._.pages).sortBy(function(item) {
+  -     var ptn = RegExp(subdir + '/' + cfname + '/' + '(\\d+)-.*');
+  -     var match = item.filepath.relative.match(ptn);
+  -     return parseInt(match[1]);
+  -   }).value();
+  - }
+  - else {
+  -   features = []
+  - }
 
   = content.title + ' | ' + locals.name
 
