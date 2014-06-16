@@ -1,5 +1,5 @@
 ---
-image: 180775335.jpg
+image: 492862281.jpg
 ---
 
 ### Gain Competitive Advantage
