@@ -1,6 +1,5 @@
 ---
 image: 180462622-implement.jpg
-sidebar: analytic-module-sidebar.md
 ---
 
 ### Analytic Module Services
