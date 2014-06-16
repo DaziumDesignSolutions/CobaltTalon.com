@@ -9,4 +9,4 @@ Integrates and transforms healthcare claims and clinical data via a unique combi
 
 [Overview]
 
-[Overview]: /solutions/analytic-platform.html
+[Overview]: http://50.62.110.126/populationhealthanalytics
