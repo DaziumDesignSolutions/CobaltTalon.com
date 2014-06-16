@@ -2,7 +2,7 @@
 image: 180775335.jpg
 ---
 
-### `Gain Competitive Advantage`
+### Gain Competitive Advantage
 
 1. Prioritize outreach programs based on potential cost, consumption, and risk
 2. Maximize contact rates for outreach programs and care management vendors

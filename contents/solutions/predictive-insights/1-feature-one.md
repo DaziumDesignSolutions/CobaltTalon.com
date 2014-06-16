@@ -2,7 +2,7 @@
 image: 484108557.jpg
 ---
 
-### `Reliable Answers`
+### Reliable Answers
 
 • Automated predictive insights services – The models are created within a fraction of the time and performed by predictive modeling experts
 
