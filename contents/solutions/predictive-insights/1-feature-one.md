@@ -1,5 +1,5 @@
 ---
-image: Crystal-186936810.jpg
+image:186936810.jpg
 
 ### Reliable Answers
 
