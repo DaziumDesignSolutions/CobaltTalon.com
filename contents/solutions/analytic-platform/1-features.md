@@ -1,9 +1,9 @@
 ---
 image: analyticsplat_478061307.jpg
-sidebar: overview.jpg
+
 ---
 
-### Features
+###Features
 
 * A world-class analytics staff & IT infrastructure operating as an extension of your organization
 * Targeted advanced/predictive analytics-based solutions to relevant, pressing business problems
