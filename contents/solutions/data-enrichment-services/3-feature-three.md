@@ -1,5 +1,5 @@
 ---
-image: 477415119-reducecost.jpg
+image: dataenrich_477415119.jpg
 sidebar: generic-list.md
 ---
 

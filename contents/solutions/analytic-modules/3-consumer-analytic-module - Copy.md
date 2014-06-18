@@ -1,5 +1,5 @@
 ---
-image: 480070051-Consulting.jpg
+image: analyticsmod_480070051.jpg
 sidebar: analytic-module-sidebar.md
 ---
 
@@ -9,4 +9,9 @@ A point solution designed to address the shifting healthcare insurance marketpla
 
 [Overview]
 
-[Overview]: http://google.com
+[Overview]: /solutions/overview-analyticmodules-consumer.html
+
+
+[Word File]
+
+[Word File]: /solutions/overview-analyticmodules-consumer_word.html

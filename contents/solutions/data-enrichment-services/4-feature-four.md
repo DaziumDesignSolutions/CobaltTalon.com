@@ -1,5 +1,5 @@
 ---
-image: 465514537-doctor.jpg
+image: dataenrich_465514537.jpg
 sidebar: generic-list.md
 ---
 

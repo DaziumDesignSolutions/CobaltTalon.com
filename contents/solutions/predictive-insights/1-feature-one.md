@@ -1,5 +1,5 @@
 ---
-image: 484108557.jpg
+image: predictivein_186936810.jpg
 ---
 
 ### `Reliable Answers`
@@ -14,4 +14,4 @@ image: 484108557.jpg
 
 [Overview]
 
-[Overview]: http://google.com
+[Overview]: /solutions/overview-predictiveinsights-reliableanswers.html

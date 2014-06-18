@@ -1,5 +1,5 @@
 ---
-image: 478061307-IpadCT.jpg
+image: analyticsplat_478061307.jpg
 sidebar: overview.jpg
 ---
 
@@ -14,7 +14,3 @@ sidebar: overview.jpg
 Microstrategy Business Intelligence Software (Gartner Group Magic Quadrant Leader)
 
 Teradata Data Warehousing Appliance (Gartner Group Magic Quadrant Leader)
-
-[Overview]
-
-[Overview]: http://google.com

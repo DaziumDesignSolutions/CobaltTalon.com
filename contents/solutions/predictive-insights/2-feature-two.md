@@ -1,5 +1,5 @@
 ---
-image: 180775335.jpg
+image: predictivein_492862281.jpg
 ---
 
 ### `Gain Competitive Advantage`
@@ -10,6 +10,6 @@ image: 180775335.jpg
 4. Showcase care management programs based upon value segments, cost levels and risk
 5. Identify and predict cost, risk and quality at consumer and provider levels
 
-[Use Case Example]
+[Overview]
 
-[Use Case Example]: http://google.com
+[Overview]: /solutions/overview-predictiveinsights-gaincompetitivead.html

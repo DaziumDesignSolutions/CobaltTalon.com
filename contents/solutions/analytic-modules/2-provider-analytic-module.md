@@ -1,5 +1,5 @@
 ---
-image: 175129682-DoctorIpad.jpg
+image: analyticsmod_175129682.jpg
 sidebar: provider-analytic-module-sidebar.md
 ---
 
@@ -8,5 +8,8 @@ sidebar: provider-analytic-module-sidebar.md
 Designed to support Health Plans with managing the supply side of the equation as new ACO and PCMH payments aim to reward healthcare providers for efficiency and coordination.
 
 [Overview]
+[Overview]: /solutions/overview-analyticmodules-provider.html
 
-[Overview]: http://google.com
+
+[Word File]
+[Word File]: /solutions/overview-analyticmodules-provider_word.html
