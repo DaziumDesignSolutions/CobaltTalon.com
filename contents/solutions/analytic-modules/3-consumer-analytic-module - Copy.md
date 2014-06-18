@@ -10,8 +10,3 @@ A point solution designed to address the shifting healthcare insurance marketpla
 [Overview]
 
 [Overview]: /solutions/overview-analyticmodules-consumer.html
-
-
-[Word File]
-
-[Word File]: /solutions/overview-analyticmodules-consumer_word.html

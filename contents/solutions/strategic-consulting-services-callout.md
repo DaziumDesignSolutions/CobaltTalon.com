@@ -1,0 +1,1 @@
+Cobalt Talon maintain a focus exclusively on health care data management and analytic solutions... that’s all we do.
