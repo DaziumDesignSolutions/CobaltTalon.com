@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD:contents/solutions/overview-analyticmodules-services.md
 title: Analytic Module Services Overview
-=======
-image: 180462622-implement.jpg
->>>>>>> FETCH_HEAD:contents/solutions/analytic-modules/4-Implementation-Services.md
 ---
 
 ###• Custom Reporting and Dashboards
