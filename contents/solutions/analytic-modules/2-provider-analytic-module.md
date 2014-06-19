@@ -9,7 +9,3 @@ Designed to support Health Plans with managing the supply side of the equation a
 
 [Overview]
 [Overview]: /solutions/overview-analyticmodules-provider.html
-
-
-[Word File]
-[Word File]: /solutions/overview-analyticmodules-provider_word.html
