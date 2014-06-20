@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis turpis, r
 
 Maecenas nec magna non arcu volutpat fringilla. In pellentesque, magna sed placerat ullamcorper, quam ligula convallis augue, eget lacinia nunc lacus id sapien. Integer volutpat, velit vitae rhoncus placerat, turpis erat auctor diam, at ultricies velit orci a ligula. Pellentesque pulvinar faucibus diam, nec molestie orci pellentesque ut. Vestibulum velit tortor, viverra vel congue in, molestie ut turpis. Donec porta mauris in tortor condimentum suscipit ultrices mi vulputate. Fusce suscipit convallis scelerisque. Sed aliquet odio erat. Ut tincidunt est a nibh pellentesque gravida id a ipsum. Proin facilisis odio at risus ultricies id feugiat nulla ultricies. Quisque nec enim
 
-**SHARE ARTICLE**
+**SHARE ARTICLE**  ![facebook](/images/social/facebook.png) ![twitter](/images/social/twitter.png) ![linkedin](/images/social/linkedin.png) ![email](/images/social/email.png)
