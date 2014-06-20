@@ -9,12 +9,17 @@ block title
   - } else {
   -   content = contents[locals.page.metadata.content_file]
   - }
+  - var page_id = locals.page.metadata.content_file.split('.')[0];
+  - var classes = '';
+  - if (typeof locals.page.metadata.classes !== "undefined") {
+  -   classes = locals.page.metadata.classes
+  - }
   = content.title
   |  | 
   = locals.name
   
 block content
-  #contact
+  div(id= page_id class= classes)
     .container
       .content-area
         //ul
