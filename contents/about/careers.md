@@ -5,7 +5,7 @@ title: Careers
 
 Cobalt Talon offers competitive compensation and benefit packages, a business casual work environment, and a commitment to being the very best company in our industry segment.
 
-Click (https://cobalttalon.cobaltastra.com/Home.aspx) to see a complete list of our current positions available.
+[Click to see a complete list of our current positions available](https://cobalttalon.cobaltastra.com/Home.aspx).
 
 Our team’s combined experience and expertise in analytics, business intelligence, and data warehousing, as well as cloud computing and delivering software as a service, enables Cobalt Talon Analytics to provide high economic-impact solutions, on an affordable budget, and in an extremely reasonable timeframe, addressing some of the most complex challenges that businesses face today.
 
