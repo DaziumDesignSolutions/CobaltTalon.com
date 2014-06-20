@@ -7,6 +7,4 @@ background: analtyicsolutions.jpg
 Are you ready to measure overall efectiveness to deliver quality care and reduce costs?
 <br />
 <br />
-<br />
-<br />
-<div class="action"><a href='#' class="btn btn-lg btn-primary">INTEGRATED SOLUTIONS</a></div>
+<div class="action"><a href='http://50.62.110.126/populationhealthanalytics' class="btn btn-lg btn-primary">INTEGRATED SOLUTIONS</a></div>

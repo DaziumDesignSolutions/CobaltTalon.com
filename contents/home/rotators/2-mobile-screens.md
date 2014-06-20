@@ -7,6 +7,4 @@ background: strategicconsulting.jpg
 Unique combination of business expertise and technical knowledge.
 <br />
 <br />
-<br />
-<br />
-<div class="action"><a href='#' class="btn btn-lg btn-primary">COMPETITIVE ADVANTAGE</a></div>
+<div class="action"><a href='/solutions/strategic-consulting-services.html' class="btn btn-lg btn-primary">COMPETITIVE ADVANTAGE</a></div>
