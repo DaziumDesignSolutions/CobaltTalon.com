@@ -2,8 +2,8 @@
 title: Implementation Servcies Case Study
 ---
 
-Link to PDF of:
 Enterprise Information Management Delivers Major Business Benefits For Health Insurance Provider
+[CobaltTalon_propensity_whitepaper](/pdfs/CobaltTalon_propensity_whitepaper.pdf)
 
 ###Knightsbridge Solution Enables Business Transformation
 The client is a leading provider of specialized insurance products and services with annual revenue of $7 billion. Recognizing that its market was evolving rapidly, the company identified several strategic business initiatives to reinforce its leadership position. These initiatives leverage information resources to drive major enhancements in some of the company’s core business processes, including underwriting, customer segmentation, and customer placement. The company partnered with Knightsbridge Solutions to define a data strategy and build an information architecture to support these strategic objectives.
