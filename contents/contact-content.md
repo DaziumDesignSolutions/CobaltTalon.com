@@ -12,18 +12,18 @@ Kansas City, MO 64114<br />
 ---
 
 ####Sales Question<br/>
-More information about Cobalt Talon analytic solutions.n<br/>
-816-533-7967n<br/>
+More information about Cobalt Talon analytic solutions.<br/>
+816-533-7967<br/>
 info@cobalttalon.com
 
 ---
 ####Customer Service and Supportn<br/>
-If you have technical and analytic questions.n<br/>
-816-823-6761n<br/>
+If you have technical and analytic questions.<br/>
+816-823-6761<br/>
 support@cobalttalon.com
 
 ---
 ####Corporate Informationn<br/>
-Details about our team, our location or employment information.n<br/>
-816-823-6761n<br/>
+Details about our team, our location or employment information.<br/>
+816-823-6761<br/>
 info@cobalttalon.com
