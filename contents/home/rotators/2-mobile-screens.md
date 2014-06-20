@@ -1,10 +1,14 @@
 ---
-background: mobile-screens.jpg
+background: strategicconsulting.jpg
 ---
 
-### Mobile Screens
+### Strategic Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<div class="action"><a href='#' class="btn btn-lg btn-primary">Button</a></div>
-
+Unique combination of business expertise and technical knowledge.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="action"><a href='#' class="btn btn-lg btn-primary">COMPETITIVE ADVANTAGE</a></div>
