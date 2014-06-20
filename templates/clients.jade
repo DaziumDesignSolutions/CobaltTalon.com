@@ -4,17 +4,18 @@ block title
   - var content = contents['about']['clients.md']
   = content.title + ' | ' + locals.name  
 block content
-  #about
+  //NOTE: raw clients div causes background issue, have determined why yet, set to "-container"
+  #clients-container
     .container
       .content-area
         h1= content.title
         #clients
-          .col-sm-6
+          .col-sm-6.img
             img(src='/about/clients/NewDirections-logo.jpg')
-          .col-sm-6
+          .col-sm-6.img
             img(src='/about/clients/bcbs-kc-logo.jpg')
-          .col-sm-6
+          .col-sm-6.img
             img(src='/about/clients/healthyFit-logo.jpg')
-          .col-sm-6
+          .col-sm-6.img
             img(src='/about/clients/TopazSharedServices-logo.jpg')
         != content.html
