@@ -1,5 +1,7 @@
-- var idx = feature.filepath.relative.lastIndexOf('/');
-- var path = feature.filepath.relative.slice(0,idx);
+//- var idx = feature.filepath.relative.lastIndexOf('/');
+//- var path = feature.filepath.relative.slice(0,idx);
+- var idx = feature.url.lastIndexOf('/');
+- var path = feature.url.slice(1,idx);
 - var image_url = '/' + path + '/' + feature.metadata.image;
 - var sidebar = false;
 - if (typeof feature.metadata.sidebar !== "undefined") {
