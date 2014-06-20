@@ -10,7 +10,8 @@ block content
       .content-area
         #home-rotator.carousel.slide(data-ride='carousel')
           - var rotators = _.chain(contents.home.rotators._.pages).sortBy(function(item) {
-          -   var match = item.filepath.relative.match(/rotators[\/](\d+)-.*?\.md$/);
+          //-   var match = item.filepath.relative.match(/rotators[\/](\d+)-.*?\.md$/);
+          -   var match = item.filepath.relative.match(/rotators.(\d+)-.*?\.md$/);
           -   return parseInt(match[1]);
           - }).value();
           ol.carousel-indicators
@@ -50,7 +51,8 @@ block content
           #home-events.col-sm-6
             h3 Highlighted Events
             - var events = _.chain(contents.home.events._.pages).sortBy(function(item) {
-            -   var match = item.filepath.relative.match(/events[\/](\d+)-(\w+?)\.md$/)
+            //-   var match = item.filepath.relative.match(/events[\/](\d+)-(\w+?)\.md$/)
+            -   var match = item.filepath.relative.match(/events.(\d+)-(\w+?)\.md$/)
             -   return parseInt(match[1]);
             - }).value();
             .event
