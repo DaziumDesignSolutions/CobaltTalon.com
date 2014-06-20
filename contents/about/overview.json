@@ -1,0 +1,5 @@
+{
+  "template": "basic_layout.jade",
+  "sub_dir": "about",
+  "content_file": "overview.md"
+}
