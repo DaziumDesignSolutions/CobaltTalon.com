@@ -17,13 +17,13 @@ More information about Cobalt Talon analytic solutions.<br/>
 info@cobalttalon.com
 
 ---
-####Customer Service and Supportn<br/>
+####Customer Service and Support<br/>
 If you have technical and analytic questions.<br/>
 816-823-6761<br/>
 support@cobalttalon.com
 
 ---
-####Corporate Informationn<br/>
+####Corporate Information<br/>
 Details about our team, our location or employment information.<br/>
 816-823-6761<br/>
 info@cobalttalon.com
