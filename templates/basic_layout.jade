@@ -1,0 +1,26 @@
+extends layout
+
+block title
+  //- var content = contents['contact-content.md']
+  //- var content = contents['about']['overview.md']
+  - var content = '';
+  - if (typeof locals.page.metadata.sub_dir !== "undefined") {
+  -   content = contents[locals.page.metadata.sub_dir][locals.page.metadata.content_file]
+  - } else {
+  -   content = contents[locals.page.metadata.content_file]
+  - }
+  = content.title
+  |  | 
+  = locals.name
+  
+block content
+  #contact
+    .container
+      .content-area
+        //ul
+        //  each val, index in locals
+        //    li= index + ': ' + val    
+        //ul
+        //  each val, index in locals.page.metadata
+        //    li= index + ': ' + val    
+        != content.html
