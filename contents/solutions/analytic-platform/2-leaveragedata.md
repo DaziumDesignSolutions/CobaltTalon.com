@@ -1,6 +1,6 @@
 ---
 image: analtyicplatform.jpg
-
+enlarge: 1
 ---
 
 ###Leaverage Large Amounts of Data

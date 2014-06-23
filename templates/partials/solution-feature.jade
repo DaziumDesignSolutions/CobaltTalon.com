@@ -7,6 +7,10 @@
 - if (typeof feature.metadata.sidebar !== "undefined") {
 -   sidebar = feature.parent.sidebars[feature.metadata.sidebar]
 - }
+- var enlarge = false;
+- if (typeof feature.metadata.enlarge !== "undefined") {
+-   enlarge = true
+- }
 
 
 .content-area
@@ -21,7 +25,13 @@
           != sidebar.html
       - else
         .col-sm-2
-          img.img-responsive(src=image_url)
+          - if (enlarge)
+            a.enlarge_image(href=image_url)
+              img.img-responsive(src=image_url)
+            a.enlarge_image.action_text(href=image_url)
+              != 'Click to Enlarge'
+          - else
+            img.img-responsive(src=image_url)
         .col-sm-10
           != feature.html
 

@@ -12,6 +12,7 @@ html.no-js(lang='en')
         block title
           = locals.name
       link(rel='stylesheet', href='/css/vendor/bootstrap.min.css')
+      link(rel='stylesheet', href='/css/vendor/jquery.fancybox.css')
       link(rel='stylesheet', href='/css/styles.css')
       script(src='/js/vendor/modernizr-2.8.1.min.js')
       script(src='/js/vendor/turbolinks.js')
@@ -19,6 +20,7 @@ html.no-js(lang='en')
       script(src='/js/vendor/bootstrap.min.js')
       script(src='/js/vendor/equalize.min.js')
       script(src='/js/vendor/holder.js')
+      script(src='/js/vendor/jquery.fancybox.pack.js')
       script(src='/js/plugins.js')
       script(src='/js/main.js')
       <!--[if lt IE 9]>
@@ -54,10 +56,10 @@ html.no-js(lang='en')
       .container
         block footer
           nav#site-map
-            .col
+            .col.col_1
               .header
                 a(href='/') HOME
-            .col
+            .col.col_2
               .header
                 | SOLUTIONS
               ul
@@ -79,7 +81,7 @@ html.no-js(lang='en')
                       a(href='/solutions/data-enrichment-services.html') Data Enrichment Services
                     li
                       a(href='/solutions/predictive-insights.html') Predictive Insights
-            .col
+            .col.col_3
               .header
                 | NEWS and EVENTS
               ul
@@ -87,13 +89,13 @@ html.no-js(lang='en')
                   a(href='/news.html') Current News
                 li
                   a(href='/events.html') Event Listing
-            .col
+            .col.col_4
               .header
                 a(href='/resources.html') RESOURCES
               ul
                 li
                   a(href='/resources.html') White Papers
-            .col
+            .col.col_5
               .header
                 | ABOUT
               ul
@@ -107,7 +109,7 @@ html.no-js(lang='en')
                   a(href='/about/clients.html') Clients
                 li
                   a(href='/about/careers.html') Careers
-            .col
+            .col.col_6
               .header
                 a(href='/contact.html') CONTACT
 
