@@ -355,6 +355,7 @@ h3 { font-size: 20px; }
 blockquote { font-size: 14px; }
 #resources-content img { float: left; margin-right: 10px; }
 #solutions-overview-analyticmodules-consumer img { margin-left: 20px; }
+.enlarge_image.action_text { float: left; width: 100%; text-align: center; }
 
 /*
 footer nav#site-map .col { border-left: none; float: left; }
@@ -395,7 +396,7 @@ footer nav#site-map .col { border-left: none; float: left; }
     margin-left: 50px;
   }
   #solution-features .solution-feature h3 { margin-top: 10px; }
-  footer nav#site-map .col { border-left: none; float: left; width: 100%; height:inherit; margin-bottom: 20px; }
+  footer nav#site-map .col { border-left: none; float: left; width: 85%; height:inherit; margin-bottom: 20px; }
 
   #home-rotator {
     .carousel-inner {
@@ -423,6 +424,10 @@ footer nav#site-map .col { border-left: none; float: left; }
       }
     }
   }
+  /* footer nav#site-map .col { width: 100%; } */
+  footer nav#site-map .col_1, footer nav#site-map .col_4 { width: 20%; }
+  footer nav#site-map .col_3, footer nav#site-map .col_6 { width: 25%; }
+  footer nav#site-map .col_2, footer nav#site-map .col_5 { width: 40%; }
 }
 
 @media (min-width: 889px) {
@@ -446,6 +451,7 @@ footer nav#site-map .col { border-left: none; float: left; }
       }
     }
   }
+  footer nav#site-map .col { width: auto; }
 }
 
 @media (min-width: 1200px) {
