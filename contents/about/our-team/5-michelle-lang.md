@@ -1,6 +1,6 @@
 ---
 image: michelle-lang.jpg
-name: Bill Chamberlain 
+name: Michelle Lang 
 ---
 Michelle Lang serves as the Vice President of AnalyticS Method Development for Cobalt Talon. Michelle comes to Cobalt Talon from Blue Cross Blue Shield of Kansas City where she spent over 18 years with the health insurance company.
 
