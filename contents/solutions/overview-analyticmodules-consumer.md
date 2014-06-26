@@ -1,5 +1,5 @@
 ---
-title: Consumer Analytics Module Overview
+title: Consumer Analytics Module Overviews
 ---
 
 Cobalt Talon has developed the Consumer Analytics Module, a point solution designed to address the shifting healthcare insurance marketplace. Utilizing the Module, companies can leverage consumer data to drive sales and marketing strategies in a direct-to-consumer world. Because of the nature of Cobalt Talon’s modules, this solution is available with little implementation effort at a very affordable rate. 
@@ -15,7 +15,7 @@ Cobalt Talon has developed the Consumer Analytics Module, a point solution desig
 
 [Image]
 
-[Image]: http://www.daziumdesign.com/14042_cobalttalon/products-market-shift-module-lg.jpg
+[Image]: http://www.daziumdesign.com/14042_cobalttalon/products-market-shift-module-new.jpg
 
 
 ###End-to-End Capabilities
