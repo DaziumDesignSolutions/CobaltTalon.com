@@ -1,10 +1,9 @@
 ---
-background: mobile-using-grayscale.jpg
+background: dataenrichment.jpg
 ---
 
-### Mobile Platform Grayscale
+### Data Enrichment
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Implement and draw business insights from analytic methodologies.
 
-<div class="action"><a href='#' class="btn btn-lg btn-primary">Button</a></div>
-
+<div class="action"><a href='/solutions/data-enrichment-services.html' class="btn btn-lg btn-primary">BUSINESS INSIGHTS</a></div>

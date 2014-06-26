@@ -1,9 +1,12 @@
 extends layout
 
 block title
-  - var subdir_page = page.filepath.relative.split('/');
-  - var subdir = subdir_page[0];
-  - var cfname = subdir_page[1].split('.')[0];
+  //- var subdir_page = page.filepath.relative.split('/');
+  //- var subdir = subdir_page[0];
+  //- var cfname = subdir_page[1].split('.')[0];
+  - var subdir_page = page.url.split('/');
+  - var subdir = subdir_page[1];
+  - var cfname = subdir_page[2].split('.')[0];
   - var content = contents[subdir][cfname + '.md'];
   - var callout = contents[subdir][cfname + '-callout.md'];
 
@@ -12,7 +15,8 @@ block title
   - if (typeof features !== "undefined") {
   -   var features = _.chain(features._.pages).sortBy(function(item) {
   -     var ptn = RegExp(subdir + '/' + cfname + '/' + '(\\d+)-.*');
-  -     var match = item.filepath.relative.match(ptn);
+  //-     var match = item.filepath.relative.match(ptn);
+  -     var match = item.url.match(ptn);
   -     return parseInt(match[1]);
   -   }).value();
   - }

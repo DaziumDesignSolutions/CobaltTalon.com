@@ -1,10 +1,9 @@
 ---
-background: mobile-platform.jpg
+background: analtyicsolutions.jpg
 ---
 
-### `ACOs, ARE YOU READY?`
+### Analytic Solutions for ACOs
 
-`ACOs are facing many challenges, but one of the biggest challenges in 2014 is measuring the overall effectiveness of the organization’s ability to deliver quality care. Targeting this issue will help the health of the population improve as well as reduce costs. The ability to leverage the availability of data with analytic tools to measure and compare baseline data against post-intervention results is necessary for any ACO trying to compete in the market place.`
+Are you ready to measure overall efectiveness to deliver quality care and reduce costs?
 
-<div class="action"><a href='#' class="btn btn-lg btn-primary">Button</a></div>
-
+<div class="action"><a href='http://50.62.110.126/populationhealthanalytics' class="btn btn-lg btn-primary">INTEGRATED SOLUTIONS</a></div>

@@ -1,0 +1,16 @@
+//- var idx = feature.filepath.relative.lastIndexOf('/');
+//- var path = feature.filepath.relative.slice(0,idx);
+- var idx = member.url.lastIndexOf('/');
+- var path = member.url.slice(1,idx);
+- var image_url = '/' + path + '/' + member.metadata.image;
+
+.content-area
+  .our-team-feature
+    .row
+      h3.member_name= member.metadata.name
+      .col-sm-2
+        img.img-responsive(src=image_url)
+      .col-sm-10
+        != member.html
+
+

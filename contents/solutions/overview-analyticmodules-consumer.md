@@ -13,15 +13,17 @@ Cobalt Talon has developed the Consumer Analytics Module, a point solution desig
 * Customizable to each client’s business segmentation methods 
 * Includes multiple user views (plan - broker - group)
 
+<<<<<<< HEAD
 [Image]
 
 [Image]: http://www.daziumdesign.com/14042_cobalttalon/products-market-shift-module-new.jpg
+=======
+![products-market-shift-module](/images/solutions/products-market-shift-module.jpg)
+>>>>>>> FETCH_HEAD
 
 
 ###End-to-End Capabilities
 
 We help turn data into actionable information. Let the Consumer Analytics Module help you acquire new customers, deepen relationships with existing customers, strengthen distribution channels, facilitate channel choice, differentiate your brand and link targeted marketing investments to business results.
 
-[Image]
-
-[Image]: http://www.daziumdesign.com/14042_cobalttalon/products-market-shift-analytic-platform-lg.jpg
+![products-market-shift-analytic-platform-lg](/images/solutions/products-market-shift-analytic-platform-lg.jpg)

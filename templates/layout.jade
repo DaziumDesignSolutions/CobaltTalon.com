@@ -12,6 +12,7 @@ html.no-js(lang='en')
         block title
           = locals.name
       link(rel='stylesheet', href='/css/vendor/bootstrap.min.css')
+      link(rel='stylesheet', href='/css/vendor/jquery.fancybox.css')
       link(rel='stylesheet', href='/css/styles.css')
       script(src='/js/vendor/modernizr-2.8.1.min.js')
       script(src='/js/vendor/turbolinks.js')
@@ -19,6 +20,7 @@ html.no-js(lang='en')
       script(src='/js/vendor/bootstrap.min.js')
       script(src='/js/vendor/equalize.min.js')
       script(src='/js/vendor/holder.js')
+      script(src='/js/vendor/jquery.fancybox.pack.js')
       script(src='/js/plugins.js')
       script(src='/js/main.js')
       <!--[if lt IE 9]>
@@ -54,15 +56,15 @@ html.no-js(lang='en')
       .container
         block footer
           nav#site-map
-            .col
+            .col.col_1
               .header
                 a(href='/') HOME
-            .col
+            .col.col_2
               .header
-                a(href='#') SOLUTIONS
+                | SOLUTIONS
               ul
                 li
-                  a(href='#') Products
+                  | Products
                   ul
                     li
                       a(href='/solutions/analytic-modules.html') Analytic Modules
@@ -71,7 +73,7 @@ html.no-js(lang='en')
                     li
                       a(href='/solutions/analytic-platform.html') Analytic Platform
                 li
-                  a(href='#') Services
+                  | Services
                   ul
                     li
                       a(href='/solutions/strategic-consulting-services.html') Strategic Consulting Services
@@ -79,37 +81,37 @@ html.no-js(lang='en')
                       a(href='/solutions/data-enrichment-services.html') Data Enrichment Services
                     li
                       a(href='/solutions/predictive-insights.html') Predictive Insights
-            .col
+            .col.col_3
               .header
-                a(href='#') NEWS and EVENTS
+                | NEWS and EVENTS
               ul
                 li
-                  a(href='#') Current News
+                  a(href='/news.html') Current News
                 li
-                  a(href='#') Event Listing
-            .col
+                  a(href='/events.html') Event Listing
+            .col.col_4
               .header
-                a(href='#') RESOURCES
+                a(href='/resources.html') RESOURCES
               ul
                 li
-                  a(href='#') White Papers
-            .col
+                  a(href='/resources.html') White Papers
+            .col.col_5
               .header
-                a(href='#') ABOUT
+                | ABOUT
               ul
                 li
-                  a(href='#') Overview
+                  a(href='/about/overview.html') Overview
                 li
-                  a(href='#') Our Team
+                  a(href='/about/our-team.html') Our Team
                 li
-                  a(href='#') Partnerships
+                  a(href='/about/partnerships.html') Partnerships
                 li
-                  a(href='#') Clients
+                  a(href='/about/clients.html') Clients
                 li
-                  a(href='#') Careers
-            .col
+                  a(href='/about/careers.html') Careers
+            .col.col_6
               .header
-                a(href='#') CONTACT
+                a(href='/contact.html') CONTACT
 
           #logo-and-location
             .row
@@ -119,14 +121,14 @@ html.no-js(lang='en')
                 #social-links
                   ul.list-inline
                     li
-                      a(href='#')
-                        img(src=contents.images.social['facebook.png'].url)
+                      a(href='https://www.facebook.com/pages/Cobalt-Talon/497398997021084')
+                        img(src=contents.images.social['facebook_24.png'].url)
                     li
-                      a(href='#')
-                        img(src=contents.images.social['twitter.png'].url)
+                      a(href='https://twitter.com/CobaltTalon')
+                        img(src=contents.images.social['twitter_24.png'].url)
                     li
-                      a(href='#')
-                        img(src=contents.images.social['linkedin.png'].url)
+                      a(href='https://www.linkedin.com/company/cobalt-talon')
+                        img(src=contents.images.social['linkedin_24.png'].url)
                 #location
                   | 8140 Ward Parkway, Ste. 430<br />
                   | Kansas City, MO 64114
