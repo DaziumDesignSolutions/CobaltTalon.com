@@ -10,6 +10,10 @@ Companies that deploy Agile Analytics find they tackle big data quickly and effi
 
 The advantages of an Agile Analytics approach are significant, allowing companies to reap benefits without investing millions or waiting years for the return on investment. Help your company leverage it's big data - deploy Agile Analytics today. Download our white paper attachment.
 
+
+
+
+
 #`Population Health Analytics`
 
 [![whitepaper](images/whitepaper_download_services.jpg)](/pdfs/CobaltTalon_propensity_whitepaper.pdf)
