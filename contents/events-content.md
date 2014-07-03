@@ -1,5 +1,4 @@
 ---
-image: analyticsmod_164125422.jpg
 title: Current Events
 ---
 
@@ -22,7 +21,6 @@ The 2014 ACO Performance Analytics and Data Management Summit provides insights 
 * Avoiding Costly Mistakes by Properly Vetting Vendors, Redefining Payment Terms, Setting Expectations and Measuring ROI
 * Ensuring Privacy and Data Security - Achieving Effective Information Sharing while Remaining Compliant 
 * Provider Perspective - Aligning with Providers to Reach Data Management Goals 
-* 
 
 ---
 July 13th, 2014
