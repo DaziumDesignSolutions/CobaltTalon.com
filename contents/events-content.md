@@ -1,4 +1,5 @@
 ---
+image: analyticsmod_164125422.jpg
 title: Current Events
 ---
 
@@ -7,11 +8,9 @@ June 18th, 2014
 #####ACO Summit
 
 ACOs in both the public and private sector have continued to grow over the past several years, ushering in more experience and evidence on what is working and ways to continue evolving accountable care models.
-The Summit brings together leading policymakers, experts, and ACO implementers to provide unique and in-depth insights on ACO implementation and ongoing health care reform. The Summit will cover a variety of topics including innovative contract and payment arrangements, performance measurement, patient engagement, unique challenges and opportunities for physician-led ACOs, clinical leadership, coordinating care for high-risk and vulnerable populations, strategies for clinical transformation, and innovations in health data use and management.
+The Summit brings together leading policy makers, experts, and ACO implementers to provide unique and in-depth insights on ACO implementation and ongoing health care reform. The Summit will cover a variety of topics including innovative contract and payment arrangements, performance measurement, patient engagement, unique challenges and opportunities for physician-led ACOs, clinical leadership, coordinating care for high-risk and vulnerable populations, strategies for clinical transformation, and innovations in health data use and management.
 
 ---
-image: analyticsmod_164125422.jpg
-
 June 23rd, 2014
 #####ACO Performance Analytics Data Management Summit
 
@@ -26,24 +25,18 @@ The 2014 ACO Performance Analytics and Data Management Summit provides insights 
 * 
 
 ---
-image: analyticsmod_164125422.jpg
-
 July 13th, 2014
 #####Blue Cross Blue Shield Western Operations Conference
 
 The 2014 WOC is hosted by our very own Blue Cross Blue Shield of Kansas City! A conference intended for professionals and management of member health plans.
 
 ---
-image: analyticsmod_164125422.jpg
-
 September 21st, 2014
 #####IM Symposium
 
 The IM Symposium provides Plan business and technical representatives an opportunity to network and exchange best practices and innovations in the field of information management, information architecture, data warehousing, business intelligence, informatics and analytics with the end result of delivering actionable business value to the Plans through the power of information assets.
 
 ---
-image: analyticsmod_164125422.jpg
-
 October 5th, 2014
 #####Predictive Analytics for Healthcare
 
