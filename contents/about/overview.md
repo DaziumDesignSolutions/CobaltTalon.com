@@ -13,5 +13,5 @@ Critical success factors to gaining full advantage of any new system include eas
 
 [Strengths Finder]
 
-[Strengths Finder]: https://public.tableausoftware.com/views/StrengthsFinder_0/Dashboard1?:embed=y&:display_count=no 
+[Strengths Finder]: https://public.tableausoftware.com/profile/dmessick#!/vizhome/StrengthsFinder_0/Dashboard1
 
