@@ -1,1 +1,1 @@
-Predicting results accurately, means you can make the right decisions quickly and further reduce risk.
+“Cobalt Talon solutions arm healthcare organizations with the business intelligence necessary to inform them on where to focus resources and on how to engage customers, patients and prospects in order to achieve the best results.”
