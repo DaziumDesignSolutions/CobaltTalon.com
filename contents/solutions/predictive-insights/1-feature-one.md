@@ -10,6 +10,6 @@ Our predictive insight services incorporate analytic methods that help decision-
 `* Identify the factors with the most impact - Quickly identify the factors in your model with the greatest impact on business outcomes.`
 `* Achieve better outcomes – Predicting results accurately, means you can make the right decisions quickly and further reduce risk.`
 
-`[Overview]`
+[Overview]
 
-[Overview]: /solutions/overview-predictiveinsights-reliableanswers.html
+[Overview]: 7_10a PredictiveInsights_flyer.pdf
