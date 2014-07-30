@@ -1,7 +1,7 @@
 ---
 title: "Big Data:  Daunting"
 image: 179692973.jpg
-teaser: "According to the ECRI Institue’s Top 10 Patient and Saftey Concerns for Healthcare Organizations, healthcare systems are struggling to adopt “big data” technologies."
+teaser: "According to the ECRI Institue’s Top 10 Patient and Saftey Concerns for Healthcare Organizations, healthcare systems are struggling to adopt “big data” technologies!"
 ---
 ##Big Data: Daunting
 
