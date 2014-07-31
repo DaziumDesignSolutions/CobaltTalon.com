@@ -6,11 +6,11 @@ image: predictivein_492862281.jpg
 
 The solution supports a wide variety of business opportunities and objectives, including revenue growth, customer acquisition and retention, healthcare cost control and many more. 
 
-1.	Prioritize outreach programs based on potential cost, consumption, and risk
-2.	Maximize contact rates for outreach programs and care management vendors
-3.	Create targeted health improvement campaigns and employer wellness programs
-4.	Focus care management programs based upon value segments, cost levels and risk
-5.	Identify and predict cost, risk and quality at consumer and provider level
+`1.	Prioritize outreach programs based on potential cost, consumption, and risk`
+`2.	Maximize contact rates for outreach programs and care management vendors`
+`3.	Create targeted health improvement campaigns and employer wellness programs`
+`4.	Focus care management programs based upon value segments, cost levels and risk`
+`5.	Identify and predict cost, risk and quality at consumer and provider level`
 
 **Features:**
 	Accurate results produced by an advanced prediction engine and big data assets.
