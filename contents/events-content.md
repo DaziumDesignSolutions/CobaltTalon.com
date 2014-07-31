@@ -36,7 +36,7 @@ The IM Symposium provides Plan business and technical representatives an opportu
 
 ---
 October 5th, 2014
-#####Predictive Analytics for Healthcare
+#####Predictive Analytics World 
 
 Predictive Analytics World October 5–9 in Boston is packed with the top predictive analytics experts, practitioners, authors and business thought leaders, including keynote speakers:
 
