@@ -1,4 +1,5 @@
 {
-  "template": "basic_layout.jade",
-  "content_file": "events-content.md"
+  "template": "sidebar.jade",
+  "content_file": "events-content.md",
+  "sidebar_file": "events-sidebar-content.md"
 }
