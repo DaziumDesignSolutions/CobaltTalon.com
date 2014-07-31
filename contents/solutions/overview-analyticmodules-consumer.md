@@ -1,5 +1,5 @@
 ---
-title: Consumer Analytics Module Overviews
+title: Consumer Analytic Module Overview
 ---
 
 To compete and survive in the dramatically shifting U.S. healthcare market, health plans and insurance agencies must adapt their business models to accommodate new direct-to-consumer channels while also maintaining traditional employer-sponsored plans.
@@ -15,16 +15,9 @@ Cobalt Talon has developed the Consumer Analytics Module, a point solution desig
 * Customizable to each client’s business segmentation methods
 * Includes multiple user views (plan - broker - group)
 
-
-
-<<<<<<< HEAD
-[Image]
-
 [Image]: http://www.daziumdesign.com/14042_cobalttalon/products-market-shift-module-new.jpg
 =======
 ![products-market-shift-module](/images/solutions/products-market-shift-module.jpg)
->>>>>>> FETCH_HEAD
-
 
 ###End-to-End Capabilities
 
