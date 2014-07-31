@@ -1,6 +1,6 @@
 ---
 image: strategicconsult_464900523.jpg
-sidebar: Health.md
+sidebar: feat2.md
 ---
 
 ### Health Care Analytics Consulting
