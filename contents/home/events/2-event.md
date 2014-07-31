@@ -1,6 +1,6 @@
 ---
-date: 2014-6-23
-link: https://www.healthcare-conferences.com/conference.aspx?ccode=H224B
+date: 2014-10-5
+link: http://www.predictiveanalyticsworld.com/boston/2013/
 ---
 
-ACO Performance Analytics Data Managment Summit
+Predictive Analytics World
