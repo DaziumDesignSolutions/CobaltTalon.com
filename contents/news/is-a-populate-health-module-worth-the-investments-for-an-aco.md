@@ -5,7 +5,7 @@ teaser: "Monitoring a population’s health has become a vital factor in being s
 ---
 ##Is a Population Health Management Module worth the investment for an ACO?
 
-Monitoring a population’s health has become a vital factor in being successful in value-based systems such as MSSP models and ACO models. EHR Intelligence presents the importance of having claims and clinical data within your population health models in the article, [*What Decides the Success of ACOs, Population Health Models*](http://ehrintelligence.com/2014/03/04/what-decides-the-success-of-aco-population-health-models/)?
+Monitoring a population’s health has become a vital factor in being successful in value-based systems such as MSSP models and ACO models. **EHR Intelligence** presents the importance of having claims and clinical data within your population health models in the article, [*What Decides the Success of ACOs, Population Health Models*](http://ehrintelligence.com/2014/03/04/what-decides-the-success-of-aco-population-health-models/)?
 
 **Cobalt Talon’s Population Health Analytics**
 
