@@ -11,7 +11,7 @@ Monitoring a population’s health has become a vital factor in being successful
 
 <img src="/news/463078303.jpg" class="news-image" />
 
-Cobalt Talon’s Population Health Management Analytic Module is a turnkey solution, integrating and transforming healthcare claims and clinical data via a unique combination of data mapping tools, a healthcare-specific data model, a world-class technology platform, and expert data management resources. Please visit [*Analytic Modules*](/solutions/analytic-modules.html) for more information.
+Cobalt Talon’s Population Health Analytic Module is a turn key solution, integrating and transforming healthcare claims and clinical data via a unique combination of data mapping tools, a healthcare-specific data model, a world-class technology platform, and expert data management resources. Please visit [*Analytic Modules*](/solutions/analytic-modules.html) for more information.
 
 [Return To News Listing](/news.html)
 
