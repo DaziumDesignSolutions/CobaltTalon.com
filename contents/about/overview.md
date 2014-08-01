@@ -10,7 +10,3 @@ Facing items such as industry-changing legislation, new competitive threats, and
 
 Critical success factors to gaining full advantage of any new system include ease-of-use that promotes end-user adoption, system to business value mapping, and an ongoing enhancements process required to keep pace with an ever-changing healthcare market.  Cobalt Talon addresses these factors by offering a full range of analytic products and support services to ensure customers gain optimal value. Customers access the solution via an online portal, as a service, without software or hardware acquisition or installation.  Cobalt Talon also provides consulting and implementation services, training, technical support, and other extended services based on customer need.
 
-[Strengths Finder]
-
-[Strengths Finder]: https://public.tableausoftware.com/profile/dmessick#!/vizhome/StrengthsFinder_0/Dashboard1
-
