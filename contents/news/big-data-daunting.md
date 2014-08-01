@@ -11,7 +11,7 @@ According to the ECRI Institue’s [Top 10 Patient and Saftey Concerns for Healt
 
 <img src="/news/179692973.jpg" class="news-image" />
 
-Cobalt Talon offers a fully hosted Analytic Platform so that you can leave the daunting part of “Big Data” to us! The data side is handled by our professional team and presented with a world-class platform, which produced actionable reports and insights so you can improve your quality of care and lower costs. Knowledge at the click of a button! Please visit [Analytic Platforms](http://cobalttalon.staging.dazium.com/solutions/analytic-platform.html) to learn more about how Cobalt Talon can give your data the integrity it needs.
+Cobalt Talon offers a fully hosted Analytic Platform so that you can leave the daunting part of “Big Data” to us! Your data will be handled by our specialized team and presented to you via a world-class business intelligence tool, which produces actionable insights through dashboards and reports so that you can improve the quality of care while lowering your costs. This knowledge becomes just a click of a button away! Please visit [Analytic Platforms](http://cobalttalon.staging.dazium.com/solutions/analytic-platform.html) to learn more about how Cobalt Talon can give your data the integrity it needs.
 
 [Return To News Listing](/news.html)
 
