@@ -6,12 +6,6 @@ To compete and survive in the dramatically shifting U.S. healthcare market, heal
 
 Cobalt Talon has developed the Consumer Analytics Module, a point solution designed to address the shifting healthcare insurance marketplace. Utilizing the Module, companies can leverage consumer data to drive sales and marketing strategies in a direct-to-consumer world. Because of the nature of Cobalt Talon’s module offerings, this solution is available with little implementation effort at a very affordable rate.
 
-<<<<<<< HEAD
-###Features:
-=======
-* Evaluate how “subsidies” will impact current and future mix of business.
-* Estimates government premium subsidies to the household level
->>>>>>> origin/master
 * Predicts the likelihood of small employer groups to drop coverage
 * Identifies potentially high value prospective consumers
 * Customizable to each client’s business segmentation methods
