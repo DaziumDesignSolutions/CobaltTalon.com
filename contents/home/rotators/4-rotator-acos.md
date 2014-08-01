@@ -1,5 +1,5 @@
 ---
-background: analtyicsolutions.jpg
+background: rotator_acos_bk.jpg
 ---
 
 ### Analytic Solutions for ACOs

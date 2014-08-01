@@ -1,9 +1,9 @@
 ---
-background: dataenrichment.jpg
+background: rotator_analyticmethodologies_bk.jpg
 ---
 
 ### Analytic Methodologies
 
 Effective analytic methods to enrich your raw data.
 
-<div class="action"><a href='/solutions/data-enrichment-services.html' class="btn btn-lg btn-primary">RISK ADJUSTMENT</a></div>
+<div class="action"><a href='/solutions/analytic-methodologies.html' class="btn btn-lg btn-primary">RISK ADJUSTMENT</a></div>

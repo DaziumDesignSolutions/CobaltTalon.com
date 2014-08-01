@@ -1,5 +1,5 @@
 ---
-background: dataenrichment.jpg
+background: rotator_dataenrich_bk.jpg
 ---
 
 ### Data Enrichment Services

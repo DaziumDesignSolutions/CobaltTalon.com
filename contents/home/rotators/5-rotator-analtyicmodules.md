@@ -1,9 +1,9 @@
 ---
-background: strategicconsulting.jpg
+background: rotator_analyticmodules_bk.jpg
 ---
 
 ### Analytic Modules
 
 Expert data management and advanced analytic models.
 
-<div class="action"><a href='/solutions/strategic-consulting-services.html' class="btn btn-lg btn-primary">TURN KEY SOLUTION</a></div>
+<div class="action"><a href='/solutions/analytic-modules.html' class="btn btn-lg btn-primary">TURN KEY SOLUTION</a></div>
