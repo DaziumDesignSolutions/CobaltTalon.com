@@ -6,5 +6,5 @@ Get reliable answers to critical healthcare questions. Your healthcare organizat
 * Prioritize outreach programs based on potential cost, consumption, and risk
 * Maximize contact rates for outreach programs and care management vendors
 * Create targeted health improvement campaigns and employer wellness programs
-*Focus care management programs based upon value segments, cost levels and risk
+* Focus care management programs based upon value segments, cost levels and risk
 * Identify and predict cost, risk and quality at consumer and provider level
