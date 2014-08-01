@@ -2,7 +2,7 @@
 background: strategicconsulting.jpg
 ---
 
-### Strategic Consulting
+### Strategic Consulting Services
 
 Unique combination of business expertise and technical knowledge.
 
