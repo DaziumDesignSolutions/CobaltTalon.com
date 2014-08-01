@@ -2,7 +2,7 @@
 title: Overview Sidebar
 ---
 
-###Overview Sidebar
+###Solutions
 
 Facing items such as industry-changing legislation, new competitive threats, and constant requirements to be more efficient; healthcare companies today are asking themselves the same question – how can vast amounts of data be transformed into actionable business intelligence that improves performance?  
 
