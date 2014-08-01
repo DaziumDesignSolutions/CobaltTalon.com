@@ -5,25 +5,6 @@ title: Current Events
 #Current Events
 
 ---
-June 23rd, 2014
-#####ACO Performance Analytics Data Management Summit
-
-The 2014 ACO Performance Analytics and Data Management Summit provides insights for improving clinical/financial outcomes with high-value data and actionable analytics. Stay up-to-date with ACO issues by learning about:
-
-* Taking a Strategic Approach to Managing and Analysing Data from Multiple Sources 
-* Achieving Actionable Data: Moving Beyond Merely Reporting Data to Using Data 
-* Establishing Health Information Exchange (HIE) Utilization Strategies to Support ACO Performance
-* Avoiding Costly Mistakes by Properly Vetting Vendors, Redefining Payment Terms, Setting Expectations and Measuring ROI
-* Ensuring Privacy and Data Security - Achieving Effective Information Sharing while Remaining Compliant 
-* Provider Perspective - Aligning with Providers to Reach Data Management Goals 
-
----
-July 13th, 2014
-#####Blue Cross Blue Shield Western Operations Conference
-
-The 2014 WOC is hosted by our very own Blue Cross Blue Shield of Kansas City! A conference intended for professionals and management of member health plans.
-
----
 September 21st, 2014
 #####IM Symposium
 
