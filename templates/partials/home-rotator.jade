@@ -1,4 +1,5 @@
 - var background = rotator.metadata.background;
+- var mobile_image = rotator.metadata.mobile_image;
 
 - if (index == 0)
   - var item_classes = 'item active'
@@ -9,3 +10,4 @@ div(class=item_classes)
   img.rotator(src='/home/rotators/backgrounds/' + background, alt='')
   .item-content
     != rotator.html
+    img.rotator_mobile(src='/home/rotators/backgrounds/' + mobile_image, alt='')
