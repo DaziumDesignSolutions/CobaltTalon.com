@@ -1,5 +1,6 @@
 ---
 background: rotator_analyticplatform_bk.jpg
+mobile_image: rotator_analyticplat_mobile.jpg
 ---
 
 ### Analytic Platform

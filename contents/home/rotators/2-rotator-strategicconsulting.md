@@ -1,5 +1,6 @@
 ---
 background: rotator_strategicconsulting_bk.jpg
+mobile_image: rotator_stratconsult_mobile.jpg
 ---
 
 ### Strategic Consulting Services

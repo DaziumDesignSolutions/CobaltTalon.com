@@ -1,5 +1,6 @@
 ---
 background: rotator_analyticmethodologies_bk.jpg
+mobile_image: rotator_analyticmethod_mobile.jpg
 ---
 
 ### Analytic Methodologies

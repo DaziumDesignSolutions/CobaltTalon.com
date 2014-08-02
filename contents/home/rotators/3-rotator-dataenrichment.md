@@ -1,5 +1,6 @@
 ---
 background: rotator_dataenrich_bk.jpg
+mobile_image: rotator_dataen_mobile.jpg
 ---
 
 ### Data Enrichment Services

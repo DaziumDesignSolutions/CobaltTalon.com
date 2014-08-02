@@ -1,5 +1,6 @@
 ---
 background: rotator_predictiveinsights_bk.jpg
+mobile_image: rotator_predictivein_mobile.jpg
 ---
 
 ### Predictive Insights
