@@ -6,6 +6,7 @@
 @gray: #E6E7E8;
 @grayLight: #EFEFF0;
 @grayLighter: #F6F6F6;
+@grayBorder: #e7e7e7;
 @grayDark: #4D4D4C;
 @grayDarker: #1A1919;
 
@@ -110,6 +111,8 @@ p {
 /**
  * General sections
  */
+footer #site-map ul li a { font-weight: normal; }
+
 header {
   margin-top: 30px;
 
@@ -192,13 +195,17 @@ code {
   white-space: normal;
 }
 footer {
+  border-top: 1px solid @grayBorder;
   margin: @paddingAmt 0 0;
+/*  
   background: @footerBg;
   color: @footerText;
-
+*/
+  color: @footerInnerBg;
+  font-weight: bolder;
   .container {
     padding: @paddingAmt / 2 @paddingAmt / 2 @paddingAmt / 2;
-    background: @footerInnerBg;
+    /* background: @footerInnerBg; */
   }
 
   nav#site-map {
@@ -215,7 +222,7 @@ footer {
       }
 
       a {
-        color: @footerText;
+        color: @grayDark;
         text-decoration: none;
         &:hover {
           text-decoration: underline;
@@ -224,7 +231,7 @@ footer {
 
       .header {
         margin-bottom: 0.5em;
-        border-bottom: 1px solid @footerText;
+        border-bottom: 1px solid @grayDark;
       }
 
       li {
@@ -391,30 +398,39 @@ footer nav#site-map .col { border-left: none; float: left; }
       img.rotator_mobile { display: none; }
     }
   }
+  
+  .rotator_mobile { margin: 0 auto; }
 }
 
 @media (max-width: 360px) {
-  #home-rotator {
-    h3, p { text-align: center; }
-    .carousel-control { 
-      color: #000;
-      background: none;
-    }
-    
-    .carousel-inner {
-      height: 250px;
-      /* background-color: #66C; */
-      .item {
-        img.rotator { display: none; } 
-        /* img.rotator_mobile { display: none; } */
-        .item-content {
-          /* background-color: #6C6; */
-          width: 270px;
-          .action {
-            text-align: center;
-            .btn {
-              padding-left: 1em;
-              padding-right: 1em;
+  #content { 
+    margin-top: 0; 
+    .content-area {
+      margin-bottom: 20px;
+      
+      #home-rotator {
+        h3, p { text-align: center; }
+        .carousel-control { 
+          color: #000;
+          background: none;
+        }
+
+        .carousel-inner {
+          height: 335px;
+          /* background-color: #66C; */
+          .item {
+            img.rotator { display: none; } 
+            img.rotator_mobile { display: block; }
+            .item-content {
+              /* background-color: #6C6; */
+              width: 270px;
+              .action {
+                text-align: center;
+                .btn {
+                  padding-left: 1em;
+                  padding-right: 1em;
+                }
+              }
             }
           }
         }
@@ -432,11 +448,11 @@ footer nav#site-map .col { border-left: none; float: left; }
     }
     
     .carousel-inner {
-      height: 250px;
+      height: 335px;
       /* background-color: #66C; */
       .item {
         img.rotator { display: none; } 
-        /* img.rotator_mobile { display: none; } */
+        img.rotator_mobile { display: block; }
         .item-content {
           width: 230px;
           .action {
@@ -491,31 +507,37 @@ footer nav#site-map .col { border-left: none; float: left; }
 @media (min-width: 361px)
 and (max-width: 767px)
 {
-  #home-rotator {
-    h3, p { text-align: center; }
-    .carousel-control { 
-      color: #000;
-      background: none;
-    }
-    
-    .carousel-inner {
-      height: 250px;
-      /* background-color: #66C; */
-      .item {
-        img.rotator { display: none; } 
-        /* img.rotator_mobile { display: none; } */
-        .item-content {
-          /* background-color: #6C6; */
-          width: 80%;
-          margin: 0 auto;
-          float: none;
-          position: relative;
-          left: 0;
-          .action {
-            text-align: center;
-            .btn {
-              padding-left: 1em;
-              padding-right: 1em;
+  #content { 
+    margin-top: 0; 
+    .content-area {
+      margin-bottom: 20px;
+      #home-rotator {
+        h3, p { text-align: center; }
+        .carousel-control { 
+          color: #000;
+          background: none;
+        }
+
+        .carousel-inner {
+          height: 335px;
+          /* background-color: #66C; */
+          .item {
+            img.rotator { display: none; } 
+            img.rotator_mobile { display: block; }
+            .item-content {
+              /* background-color: #6C6; */
+              width: 80%;
+              margin: 0 auto;
+              float: none;
+              position: relative;
+              left: 0;
+              .action {
+                text-align: center;
+                .btn {
+                  padding-left: 1em;
+                  padding-right: 1em;
+                }
+              }
             }
           }
         }
