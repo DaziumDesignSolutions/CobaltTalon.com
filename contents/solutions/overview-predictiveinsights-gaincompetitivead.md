@@ -12,3 +12,5 @@ Dozens of high-potential opportunities exist today in most every healthcare orga
 4.	Discover patients most likely to unnecessarily visit highest-cost, inefficient care settings (e.g., emergency room for routine services) and create incentives directing them to more appropriate settings or to address healthcare access opportunities that exist.  
 
 These examples clearly demonstrate the opportunities that can be enabled by enhanced analytic insight.  Agile Analytics solutions exist today and allow companies to reap such benefits without investing millions or waiting years for the return on investment.  
+
+<a href="" class="solutions_back">Return To Solutions</a>
