@@ -25,6 +25,7 @@ Cobalt Talon offers solutions that enable healthcare companies to accomplish the
 
 [Read More]: solutions/overview-predictiveinsights-reliableanswers.html
 
+
 ---
 
 [![solutionsoverview](images/solutionsoverview.jpg)]
