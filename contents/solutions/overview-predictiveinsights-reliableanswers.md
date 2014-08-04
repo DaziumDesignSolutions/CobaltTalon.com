@@ -1,9 +1,6 @@
 ---
-title: Reliable Answers Overview
+title: Grow Revenue and Engage Healthcare Consumers
 ---
-
-
-#Grow Revenue and Engage Healthcare Consumers
 
 ###The Solution
 Cobalt Talon offers solutions that enable healthcare companies to accomplish their critical business objectives. Our proven data enrichment process allows us to quickly deliver predictive insights and actionable segmentation methods designed specifically for the healthcare market. The advantage of such an agile analytics approach is significant given the rate of change and uncertainty that exists in the industry. To remain competitive and grow, companies must leverage data to become consumer-focused and more accountable in a new value-based healthcare system. 
@@ -33,15 +30,18 @@ ___“Cobalt Talon solutions arm healthcare organizations with the business inte
 * Business insights at a fraction of the traditional time and expense
 * Minimal customer effort (<10 data elements required to start)
 
+---
+
 __Cobalt Talon Predictive Insights at Work: A Three Step Process__
 
+>![products-market-shift-module](/images/solutions/predictiveinsights_image1.jpg)
 
-![products-market-shift-module](/images/solutions/predictiveinsights_image1.jpg)
+
+---
 
 
 __Sample Use Case: Revenue Growth Initiative__
 
-
-![products-market-shift-module](/images/solutions/predictiveinsights_image2.jpg)
+>![products-market-shift-module](/images/solutions/predictiveinsights_image2.jpg)
 
 <a href="" class="solutions_back">Return To Solutions</a>
