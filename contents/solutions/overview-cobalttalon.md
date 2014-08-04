@@ -1,5 +1,5 @@
 ---
-title: Cobalt Talon: Advanced Analytic Modules
+title: "Cobalt Talon: Advanced Analytic Modules"
 ---
 
 ###Are you able to transform business challenges into a competitive advantage?
