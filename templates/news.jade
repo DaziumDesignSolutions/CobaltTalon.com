@@ -1,0 +1,44 @@
+extends layout
+
+block title
+  //- var content = contents['contact-content.md']
+  //- var content = contents['about']['overview.md']
+  - var content = '';
+  - if (typeof locals.page.metadata.sub_dir !== "undefined") {
+  -   content = contents[locals.page.metadata.sub_dir][locals.page.metadata.content_file]
+  - } else {
+  -   content = contents[locals.page.metadata.content_file]
+  - }
+  - var page_id = locals.page.metadata.content_file.split('.')[0];
+  - var classes = '';
+  - if (typeof locals.page.metadata.classes !== "undefined") {
+  -   classes = locals.page.metadata.classes
+  - }
+  = content.title
+  |  | 
+  = locals.name
+  - var og_title = content.metadata.title;
+  - var og_image = locals.url + '/news/' + content.metadata.image;
+
+block meta
+  - var og_url = locals.url + locals.page.getUrl();
+  meta(name='og:title', content=og_title)
+  meta(name='og:site_name', content=locals.name)
+  meta(name='og:url', content=og_url)
+  meta(name='og:image', content=og_image)
+
+block content
+  div(id= page_id class= classes)
+    .container
+      .content-area
+        = og_title
+        ul
+          each val, index in content.metadata
+            li= index + ': ' + val    
+        //ul
+        //  each val, index in locals
+        //    li= index + ': ' + val    
+        //ul
+        //  each val, index in locals.page
+        //    li= index + ': ' + val    
+        != content.html
