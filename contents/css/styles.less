@@ -376,6 +376,7 @@ footer {
     .content {}
   }
 }
+.clearfix { clear: both; }
 h3 { font-size: 20px; }
 #home-rotator h3 { font-size: 30px; font-weight: normal; color: #000; }
 #home-rotator p { /* font-weight: bolder; */ font-size: 20px; }
@@ -421,6 +422,99 @@ footer nav#site-map .col { border-left: none; float: left; }
   
   .rotator_mobile { margin: 0 auto; }
 }
+
+#solutions-population-health-analytics {
+  .left, .right 
+  { 
+    width: 50%; 
+  }
+  .left { float: left; }
+  .right { float: right; }
+  #significant_challenge {
+    background-color: #eee;
+    width: 90%;
+    margin: 0 auto; 
+    padding: 20px; 
+    margin-bottom: 100px; 
+    h3 { margin-top: 0; }
+    .content {
+      margin-top: 20px;
+      .left {
+        p { margin-right: 30px; }
+      }
+      .right {
+        font-style: italic;
+        p { margin-right: 30px; }
+      }
+    }
+  }
+  #population-health-analytic-solutions {
+    width: 100%;
+    margin: 30px auto 0 auto;
+    .left, .right {
+      p { margin-right: 30px; }
+    }
+    .testimonial {
+      width: 90%;
+      margin: 75px auto 0 auto;
+      font-style: italic;
+      font-size: 16px;
+      .signature {
+        font-style: italic;
+        font-size: 12px;
+        text-align: right;
+      }
+    }
+  }
+  
+  #boxes {
+    width: 100%;
+    margin: 20px auto 0 auto;
+    z-index:200;
+    background-color: #eee;
+    table {
+      border-collapse: inherit;
+      border-spacing: 15px;
+    }
+      
+    #analytic-methodologies {
+      width: 100%;
+      h3 { margin-top: 0; margin-bottom: 20px; }
+      table {
+        .methodology {
+          position: relative;
+          background-color: #255aa8;
+          width: 225px;
+          text-align: center;
+          .boxes {
+            cursor: pointer;
+          }
+          p.description {
+            background-color: #7ac0e2;
+            margin-left: -1px;
+            padding: 1em;
+            position: absolute;
+            text-align: left;
+            top: 58px;
+            z-index: 100;
+          }
+          p.boxes {
+            color: #ffffff;
+            font-family: Arial,Helvetica,sans-serif;
+            font-size: 18px;
+            letter-spacing: 0.01em;
+            line-height: 18px;
+            margin: 20px 0;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
 
 @media only screen 
   and (min-width: 1px) 

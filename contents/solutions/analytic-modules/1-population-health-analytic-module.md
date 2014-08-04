@@ -9,4 +9,4 @@ Leverages healthcare claims and clinical data, in conjunction with a healthcare 
 
 [Overview]
 
-[Overview]: http://50.62.110.126/populationhealthanalytics
+[Overview]: /solutions/population-health-analytics.html

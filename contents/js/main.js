@@ -13,4 +13,10 @@ $(function() {
     parent.history.go(-1);
     return false;
   });
+
+  $('.methodology .description').hide();
+  $('.methodology .boxes').click(function(e) {
+    $descrip = $(this).parent().find('.description');
+    $descrip.slideToggle('fast');
+  });   
 });
