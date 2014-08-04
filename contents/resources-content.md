@@ -7,7 +7,7 @@ title: "Cobalt Talon Resources"
 
 #Tackle Big Data with Agile Analytics
 
-[![whitepaper](images/whitepaper.jpg)]
+(images/whitepaper.jpg)]
 
 Agile Analytics is the prescription for action that health care companies, health care delivery systems and health plans need in order to proffer in today's shifting health care market.
 
@@ -25,7 +25,7 @@ Cobalt Talon offers solutions that enable healthcare companies to accomplish the
 
 [Read More]
 
-[Read More]: [solutions/overview-predictiveinsights-reliableanswers.html]
+[Read More]: solutions/overview-predictiveinsights-reliableanswers.html
 
 ---
 
@@ -37,7 +37,7 @@ Cobalt Talon can help you establish or enhance your data management strategy and
 
 [Read More]
 
-[Read More]: [solutions/overview-strategicconsult.html]
+[Read More]: solutions/overview-strategicconsult.html
 
 ---
 
@@ -49,4 +49,4 @@ Regardless of how much data your company possesses, it’s useless unless it lea
 
 [Read More]
 
-[Read More]: [solutions/overview-cobalttalon.html]
+[Read More]: solutions/overview-cobalttalon.html
