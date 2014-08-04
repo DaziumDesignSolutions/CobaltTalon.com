@@ -21,8 +21,8 @@ title: Current News
     <td>
       <h3>Big Data: Daunting</h3>
       Healthcare systems are struggling to adopt “big data” technologies. Cobalt Talon offers a fully hosted Population Health Analytics Module so that you can leave the daunting part of “Big Data” to us! 
-<
-a href="/news/big-data-daunting.html">Read More</a>
+
+<a href="/news/big-data-daunting.html">Read More</a>
     </td>
     <td>
       <img src="/news/179692973.jpg" class="news-image" />
