@@ -3,8 +3,44 @@ title: Reliable Answers Overview
 ---
 
 
-Today’s business climate makes it necessary for healthcare companies to identify and develop solutions to respond to immediate demands, often in parallel with broader data management strategies designed to position them for long-term success.  Ideally, these short and long-term strategies can work in tandem and iteratively deliver pointed and timely business results while also creating building blocks for the future.
+#Grow Revenue and Engage Healthcare Consumers
 
-Because of agile analytic capabilities and our highly successful data enrichment process, Cobalt Talon can quickly deliver predictive insights - examples include risk scores for members and propensity scores for members or prospects.  The advantages of agile analytics approach are significant given the rate of change and uncertainty that remain as the industry moves towards a more accountable, value-based care system.  Enabling project scope to be shortened dramatically, an agile analytics approach accelerates a healthcare company’s ability to address immediate business issues and helps mitigate the disruption to business operations. The approach allows healthcare leaders to leverage existing internal data assets alongside valuable external data to develop critical institutional knowledge.  Such insight will prove to be invaluable in the advancement toward the goal of leveraging big data to its utmost potential.  
+###The Solution
+Cobalt Talon offers solutions that enable healthcare companies to accomplish their critical business objectives. Our proven data enrichment process allows us to quickly deliver predictive insights and actionable segmentation methods designed specifically for the healthcare market. The advantage of such an agile analytics approach is significant given the rate of change and uncertainty that exists in the industry. To remain competitive and grow, companies must leverage data to become consumer-focused and more accountable in a new value-based healthcare system. 
 
-Cobalt Talon will work with healthcare organization’s to deliver a set of propensity scoring models, which may be customized or pre-developed.  The result of this exercise is typically a simple member list with a propensity score and less than ten data elements that are the driver to each member score.  The resulting data set can easily be provided to the customer in a file transfer format for integration into their internal systems without a BI application or output data model needed.  However, the results can also be delivered by building a very simple data model with MicroStrategy BI sitting on top.  This allows Cobalt Talon to deliver visualization and analytics on top of the propensity scores, which will improve end user adoption by providing easy access to the data by non-technical staff.  
+###The Business Opportunities 
+Dozens of high-potential opportunities exist today within every healthcare organization. The following are areas that Cobalt Talon solutions can help tackle:
+ 
+* Grow Revenue through targeted customer acquisition campaigns
+* Create Customer Loyalty by customizing service models to an individual’s preferences
+* Lower Healthcare Costs by predicting healthcare risks and taking preemptive measures 
+
+___“Cobalt Talon solutions arm healthcare organizations with the business intelligence necessary to inform them on where to focus resources and on how to engage customers, patients and prospects in order to achieve the best results.”___
+
+###Features:
+
+* Accurate results produced by an advanced prediction engine and big data assets
+* Healthcare consumer segmentation model that enables engagement initiatives
+* Simple client data requirements with no hardware or software to install
+* Output that’s easy to understand and apply to virtually any business opportunity
+* Guaranteed improvement in business outcomes
+
+###Advantages:
+
+* Supports revenue growth, customer loyalty and cost containment objectives
+* Better decision making through advanced analytic processes
+* Allows companies to focus and allocate resources where it matters most
+* Business insights at a fraction of the traditional time and expense
+* Minimal customer effort (<10 data elements required to start)
+
+__Cobalt Talon Predictive Insights at Work: A Three Step Process__
+
+
+![products-market-shift-module](/images/solutions/predictiveinsights_image1.jpg)
+
+
+__Sample Use Case: Revenue Growth Initiative__
+
+
+![products-market-shift-module](/images/solutions/predictiveinsights_image2.jpg)
+

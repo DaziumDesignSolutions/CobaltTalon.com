@@ -1,4 +1,3 @@
 {
-  "template": "basic_layout.jade",
-  "content_file": "resources-content.md"
+  "template": "sub-page.jade"
 }
