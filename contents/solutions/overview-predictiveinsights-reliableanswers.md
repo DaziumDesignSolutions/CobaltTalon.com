@@ -37,6 +37,7 @@ __Cobalt Talon Predictive Insights at Work: A Three Step Process__
 >![products-market-shift-module](/images/solutions/predictiveinsights_image1.jpg)
 
 
+
 ---
 
 

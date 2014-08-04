@@ -26,7 +26,6 @@ Cobalt Talon enables healthcare companies to transform data into a strategic ass
 
 ___Let Cobalt Talon help solve the complex issues your company faces; such as the movement to consumerism, proactive determination of risk without traditional underwriting, and locating high-performance service providers in your market.___
 
-
 Cobalt Talon Analytic Modules
 __No time or budget for an enterprise analytic solution? No problem!__ Cobalt Talon has developed a set of analytic modules to address specific and often immediate business opportunities. These point solutions are affordable, customizable and quick to implement, enabling companies to get busy acting on analytic findings instead of waiting months on a large scale implementation.
 

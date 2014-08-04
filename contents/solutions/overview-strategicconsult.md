@@ -42,6 +42,7 @@ data classifications and algorithms to further enrich your data. These best-in-c
 
 ---
 
+
 #Case Study
 
 ###Health Plan Leverages Advanced Analytics to Become an Information-Driven Enterprise
