@@ -28,3 +28,5 @@ providers and brokers use the system to access member information; and roughly 5
 * **Database:** Teradata
 * **Warehousing tools:** Pentaho Open Source
 * **Business intelligence:** MicroStrategy
+
+<a href="" class="back_one">Return To Solutions</a>
