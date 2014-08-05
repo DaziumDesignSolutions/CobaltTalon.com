@@ -1,21 +1,8 @@
 ---
 title: Population Health Analytics
 ---
-<div id="significant_challenge">
-  <h3>A Significant Challenge</h3>
-  <div class="content">
-    <div class="left">
-      <p>According to recent figures, spending on chronic diseases now exceeds $1.6 trillion with only an astonishing 1% allocated to improve patient health and educate patients on how to cost-effectively manage their condition.</p>
-    </div>
-    <div class="right">
-      <p>"The Shared Savings Program will reward ACOs that lower their growth in health care costs while meeting performance standards on quality of care and putting patients first.*"</p>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-</div>
-
 <h3>Population Health Analytic Solutions</h3>
-<h4>Expert Data Management and Agile Analytics</h4>
+<h5>Expert Data Management and Agile Analytics</h5>
 
 <div id="population-health-analytic-solutions">
   <center>

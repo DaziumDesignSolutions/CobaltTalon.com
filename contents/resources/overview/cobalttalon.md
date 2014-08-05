@@ -2,7 +2,7 @@
 title: "Cobalt Talon: Advanced Analytic Modules"
 ---
 
-###Are you able to transform business challenges into a competitive advantage?
+#Are you able to transform business challenges into a competitive advantage?
 
 Regardless of how much data your company possesses, it’s useless unless it leads to meaningful information which enables positive business outcomes. Effective data management and analytic solutions can turn today’s complex business and regulatory challenges into new opportunities that differentiate you from the competition.
 
@@ -35,7 +35,7 @@ Starting with a Cobalt Talon analytic module is a great way to achieve quick bus
 * Manage the demand side of the equation as existing customers consume healthcare services
 * Influence the supply side by determining the most efficient and effective care settings and providers of service
 
-#Knowledge within your grasp
+###Knowledge within your grasp
 
 Know the customers you have and discover the ones you want.
 * Improve health outcomes and reduce medical costs
@@ -45,12 +45,12 @@ Know the customers you have and discover the ones you want.
 
 Analytic solutions allow companies to leverage consumer data and drive sales and marketing strategies in a direct-to-consumer world.
 
-#Population Health Module
+###Population Health Module
 
 Cobalt Talon specializes in innovative data management and analytics solutions for health plans and healthcare delivery systems including ACOs and Patient Centered Medical Homes. Our offerings enable healthcare organizations to respond effectively to the unpredictable market forces buffeting the industry.
 Cobalt Talon’s data enhancement processes and analytic product offerings directly enable population health management initiatives, provider efficiency and effectiveness monitoring, and the movement to a value-based healthcare market.
 
-#Transforming Raw Data into Actionable Insights
+###Transforming Raw Data into Actionable Insights
 
 For healthcare delivery systems, obtaining and integrating data pose major challenges to improving patient experience and outcomes across the continuum of care. To be successful, ACOs and other entities that perform population health management must rely on paid claims data to achieve financial incentives from shared savings and bundled payments.
 
