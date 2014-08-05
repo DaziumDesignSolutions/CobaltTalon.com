@@ -1,8 +1,11 @@
 ---
-image: analyticsmeth_454946593.jpg
+image: whitepaper.jpg
 
 ---
 
-### Clinical Classifications
+###Tackle Big Data with Agile Analytics
+Agile Analytics is the prescription for action that healthcare companies, health care delivery systems and health plans need in order to proffer in today's shifting health care market.
 
-Cobalt Talon utilizes a Chronic Condition Hierarchical Group method to produce clinical classifications at the patient level. This method is a new and innovative way of analyzing healthcare utilization and costs based on how physicians make treatment decisions. Using this clinically relevant hierarchy, individuals are assigned to unique condition categories.
+Companies that deploy Agile Analytics find they tackle big data quickly and efficiently. It's this "think big, start small, move fast" approach that health care companies are using to mitigate risk and develop institutional knowledge and control as they work towards peak analytic effectiveness.
+
+The advantages of an Agile Analytics approach are significant, allowing companies to reap benefits without investing millions or waiting years for the return on investment. Help your company leverage it's big data - deploy Agile Analytics today. Download our white paper attachment.

@@ -1,8 +1,8 @@
 ---
-image: analyticmeth_159328125.jpg
-
+image: solutionsoverview.jpg
 ---
 
-### Provider Efficiency Scoring
+###Strategic Consulting Services
+Cobalt Talon can help you establish or enhance your data management strategy and business intelligence vision with services that bridge the gap between your objectives and the technical solutions that give your health plan better access to the information it needs.
 
-Cobalt Talon utilizes a provider efficiency scoring solution that compares physician efficiencies against both peer groups and standard expected protocol ranges. Output from this methodology can be used to facilitate data-driven discussions with both primary care and specialty care physicians to enable greater efficiency levels into the future.
+[Read More](overview/strategicconsult.html)

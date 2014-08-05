@@ -5,7 +5,11 @@ block title
   //- var content = contents['about']['overview.md']
   - var content = '';
   - if (typeof locals.page.metadata.sub_dir !== "undefined") {
-  -   content = contents[locals.page.metadata.sub_dir][locals.page.metadata.content_file]
+  -   if (typeof locals.page.metadata.sub_dir2 !== "undefined") {
+  -     content = contents[locals.page.metadata.sub_dir][locals.page.metadata.sub_dir2][locals.page.metadata.content_file]
+  -   } else {
+  -     content = contents[locals.page.metadata.sub_dir][locals.page.metadata.content_file]
+  -   }
   - } else {
   -   content = contents[locals.page.metadata.content_file]
   - }

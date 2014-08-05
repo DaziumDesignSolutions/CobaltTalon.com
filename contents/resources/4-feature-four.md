@@ -1,8 +1,8 @@
 ---
-image: analyticsmeth_459953815.jpg
-
+image: solutionsoverview.jpg
 ---
 
-### Normative Data
+###Cobalt Talon: Advanced Analytic Modules
+Regardless of how much data your company possesses, it’s useless unless it leads to meaningful information which enables positive business outcomes. Effective data management and analytic solutions can turn today’s complex business and regulatory challenges into new opportunities that differentiate you from the competition.
 
-Cobalt Talon leverages one of the healthcare industry’s largest normative databases, which includes contributors such as national payers, large employers and CMS. The empirical database contains more than 30 million lives and 2 billion records of medical claims, pharmaceutical claims, and eligibility information. The benchmark comparisons include points from loosely managed care to well-managed care.
+[Read More](overview/cobalttalon.html)
