@@ -98,7 +98,8 @@ p {
 .align-right { text-align: right; }
 .align-justify { text-align: justify; }
 .content-area {
-  margin-bottom: @contentAreaMarginAmt;
+  /* margin-bottom: @contentAreaMarginAmt; */
+  margin-bottom: 17px;
 }
 .gray-bg        { background-color: @gray; }
 .grayLight-bg   { background-color: @grayLight; }
@@ -186,7 +187,7 @@ header {
 }
 #content {
   /* margin-top: @contentAreaMarginAmt; */
-  padding-top: @contentAreaMarginAmt;
+  /* padding-top: @contentAreaMarginAmt; */
   padding-bottom: 135px;
   color: @contentTextColor;
 
@@ -429,6 +430,11 @@ footer nav#site-map .col { border-left: none; float: left; }
   .rotator_mobile { margin: 0 auto; }
 }
 
+.news-articlee {
+  .header { display: inline; }
+}
+
+
 #solutions-population-health-analytics {
   .left, .right 
   { 
@@ -520,9 +526,6 @@ footer nav#site-map .col { border-left: none; float: left; }
     }
   }
 }
-
-
-
 
 @media only screen 
   and (min-width: 1px) 
