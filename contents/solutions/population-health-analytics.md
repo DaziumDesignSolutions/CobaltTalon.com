@@ -25,7 +25,7 @@ title: Population Health Analytics
     </ul>
   </div>
   <div class="clearfix"></div>
-  <a style="color: blue; font-size: 14px;" href="/contact_whitepaper.html"> To download a PDF of our Solution Brief click this link</a>
+  <a style="color: blue; font-size: 14px;" href="/contact_fivekeyingredients.html"> To download a PDF of our Solution Brief click this link</a>
   <div class="testimonial">
     <p>“The Cobalt Talon tool will allow us to track and monitor program performance and outcomes and compare them against industry standards and regional benchmarks. This data will allow us to calculate savings in medical costs over time.”</p>
     <p class="signature">Blake Williamson, MD Healthplan Specialist for TransforMED</p>

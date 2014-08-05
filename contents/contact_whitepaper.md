@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 ---
-#Contact Us
 
 Please fill out this form and we will give you a link to download a pdf file of this Solution Brief!
 If you have any questions, please contact us at info@cobalttalon.com or 816-823-6761.
