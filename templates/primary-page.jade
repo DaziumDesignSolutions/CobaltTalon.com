@@ -4,7 +4,7 @@ block title
   - var filename_parts = page.filename.split('.');
   - var filename = filename_parts[0];
   - var content = contents[filename + '.md'];
-  - var callout = contents[filename + '-callout.md'];
+  //- var callout = contents[filename + '-callout.md'];
 
   - var features = contents[filename]
   - if (typeof features !== "undefined") {
@@ -33,9 +33,11 @@ block content
         h1= content.title
         - if (typeof callout !== 'undefined')
           .row
-            .col-sm-8!= content.html
-            .col-sm-4
-              .callout!= callout.html
+			.col-sm-12!= content.html
+			//
+	            .col-sm-8!= content.html
+	            .col-sm-4
+	              .callout!= callout.html
         - else
           != content.html
     

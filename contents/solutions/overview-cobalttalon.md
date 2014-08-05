@@ -5,7 +5,7 @@ title: "Cobalt Talon: Advanced Analytic Modules"
 
 [Download PDF]: /contact_overview.html
 
-###Ae you able to transform business challenges into a competitive advantage?
+###Are you able to transform business challenges into a competitive advantage?
 
 Regardless of how much data your company possesses, it’s useless unless it leads to meaningful information which enables positive business outcomes. Effective data management and analytic solutions can turn today’s complex business and regulatory challenges into new opportunities that differentiate you from the competition.
 
