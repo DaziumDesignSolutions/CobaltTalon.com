@@ -1,5 +1,5 @@
 ---
-title: Strategic Consulting Services
+title: "Strategic Consulting Services"
 ---
 
 [Download PDF]
