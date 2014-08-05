@@ -1,6 +1,7 @@
 ---
 title: Strategic Consulting Services
 ---
+
 [Download PDF]
 
 [Download PDF]: /contact_strategicconsult.html
