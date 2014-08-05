@@ -1,1 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet condimentum nibh. 
