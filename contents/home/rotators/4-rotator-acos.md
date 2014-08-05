@@ -7,4 +7,4 @@ mobile_image: rotator_aco_mobile.jpg
 
 Measure overall effectiveness to deliver quality care and reduce costs.
 
-<div class="action"><a href='http://50.62.110.126/populationhealthanalytics' class="btn btn-lg btn-primary">INTEGRATED SOLUTIONS</a></div>
+<div class="action"><a href='/solutions/population-health-analytics.html' class="btn btn-lg btn-primary">INTEGRATED SOLUTIONS</a></div>
