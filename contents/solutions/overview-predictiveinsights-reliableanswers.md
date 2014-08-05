@@ -45,4 +45,4 @@ __Sample Use Case: Revenue Growth Initiative__
 
 >![products-market-shift-module](/images/solutions/predictiveinsights_image2.jpg)
 
-<a href="" class="solutions_back">Return To Solutions</a>
+<a href="" class="back_one">Return</a>

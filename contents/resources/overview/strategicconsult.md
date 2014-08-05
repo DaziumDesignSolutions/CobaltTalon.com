@@ -73,3 +73,5 @@ nearly $4 million each year contracting with disease management vendors to ident
 Increased IT Efficiency: The client’s team of business analysts are able to shift from data administration tasks to true analysis of information sourced from the enterprise warehouse. The client expects to save $600,000 per year in direct costs while dramatically improving the quality and impact of business analysis.
 
 __Organizational Transformation:__ The Cobalt Talon solution enables the client to fulfill its vision of becoming an information-driven enterprise. With a reliable enterprise information resource and a professional staff dedicated to managing data as a corporate asset, the client is able to reengineer business processes and proactively engage with customers and partners.
+
+<a href="" class="back_one" >Return To Resources</a>

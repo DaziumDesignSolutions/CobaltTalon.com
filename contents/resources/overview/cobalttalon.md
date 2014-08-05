@@ -55,3 +55,5 @@ Cobalt Talon’s data enhancement processes and analytic product offerings direc
 For healthcare delivery systems, obtaining and integrating data pose major challenges to improving patient experience and outcomes across the continuum of care. To be successful, ACOs and other entities that perform population health management must rely on paid claims data to achieve financial incentives from shared savings and bundled payments.
 
 Cobalt Talon analyzes claims data using industry-specific classifications and predictive intelligence to append opportunity values to relevant records. Enhanced data is loaded into a hosted analytics platform where it can be accessed to drive business process improvement at the point-of-care.
+
+<a href="" class="back_one" >Return To Resources</a>

@@ -13,3 +13,5 @@ The combination of Cobalt Talons Provider Efficiency Analytic Module’s data en
 
 ### Proven Results
 >“With the help of Cobalt Talon’s Provider Efficiency Analytic Module, our provider networks consolidated services across the continuum of care, to bring them together to have higher quality, lower cost, and boost efficiency,” according to Dr. Blake Williamson. “Cobalt Talon enabled us to scale up quickly to measure and manage our ACO & PCMH initiatives, which translated into lower prices that are charged to private insurers”.
+
+<a href="" class="back_one">Return To Solutions</a>

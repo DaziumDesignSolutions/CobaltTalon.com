@@ -22,3 +22,5 @@ We help turn data into actionable information. Let the Health Consumer Analytic 
 Arkansas Blue Cross and Blue Shield selected Cobalt Talon’s Health Consumer Analytic Module to support their direct consumer and small group retention strategy as health care reform regulations unfold during 2014 and beyond. 
 
 According to Karen Raley, Vice President of Marketing Communications & Product Development, _“Cobalt Talon’s Consumer Analytic platform is a critical element that will provide the insights we need to help guide our existing members to the best decisions during a very complex time.  We are excited that the solution will help maintain our positive role as a trusted advisor to our customers.”_
+
+<a href="" class="back_one">Return To Solutions</a>

@@ -13,4 +13,4 @@ Dozens of high-potential opportunities exist today in most every healthcare orga
 
 These examples clearly demonstrate the opportunities that can be enabled by enhanced analytic insight.  Agile Analytics solutions exist today and allow companies to reap such benefits without investing millions or waiting years for the return on investment.  
 
-<a href="" class="solutions_back">Return To Solutions</a>
+<a href="" class="back_one">Return To Solutions</a>

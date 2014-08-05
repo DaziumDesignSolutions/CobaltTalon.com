@@ -6,7 +6,7 @@ $(function() {
   $(".enlarge_image").fancybox({
       });
   
-  $('a.solutions_back').click(function(){
+  $('a.back_one').click(function(){
 //    console.log('sb');
 //    alert ('sb');
 //    parent.history.back();
