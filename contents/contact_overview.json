@@ -1,4 +1,4 @@
 {
   "template": "basic_layout.jade",
-  "content_file": "contact-content.md"
+  "content_file": "contact_overview.md"
 }
