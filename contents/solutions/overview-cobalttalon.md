@@ -1,6 +1,9 @@
 ---
 title: "Cobalt Talon: Advanced Analytic Modules"
 ---
+[Download PDF]
+
+[Download PDF]: /contact_overview.html
 
 ###Are you able to transform business challenges into a competitive advantage?
 

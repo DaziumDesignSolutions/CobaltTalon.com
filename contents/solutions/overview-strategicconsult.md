@@ -1,6 +1,9 @@
 ---
 title: Strategic Consulting Services
 ---
+[Download PDF]
+
+[Download PDF]: /contact_strategicconsult.html
 
 Our team’s experience with information technology and the business units inside health plans - provides us the unique ability to design and develop BI and DM solutions that rapidly add value to your organization.
 
