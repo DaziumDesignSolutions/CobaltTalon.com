@@ -1,3 +1,3 @@
 ---
-title: Partnerships
+title: Alliances 
 ---
