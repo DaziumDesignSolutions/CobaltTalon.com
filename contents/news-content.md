@@ -10,7 +10,7 @@ title: Current News
     <img src="/news/463078303.jpg" class="news-image" />
   </div>
   <div class="teaser">
-    <p>Monitoring a popuxlation’s health has become a vital factor in being successful in a value-based systems such as MSSP models and ACO models. EHR Intelligence presents the importance of having claims and clinical data.</p>
+    <p>Monitoring a population’s health has become a vital factor in being successful in value-based systems such as MSSP models and ACO models. EHR Intelligence presents the importance of having claims and clinical data.</p>
     <a href="/news/is-a-populate-health-module-worth-the-investments-for-an-aco.html">Read More</a>
   </div>
   <div class="clearfix"></div>
