@@ -1,3 +1,3 @@
 ## Practical and Agile Analytics
 
-Cobalt Talon helps healthcare organizations transform data into a strategic asset by providing expert data management services and high performance analytic solutions.  Our solutions cover the entire spectrum from data integration and data enrichment to intuitive dashboards and analytic consulting, which help healthcare organizations thrive in the face of unstable events fueled predominantly by legislative mandates and various CMS / Commercial payer initiatives..
+Cobalt Talon helps healthcare organizations transform data into a strategic asset by providing expert data management services and high performance analytic solutions.  Our solutions cover the entire spectrum from data integration and data enrichment to intuitive dashboards and analytic consulting, which help healthcare organizations thrive in the face of unstable events fueled predominantly by legislative mandates and various CMS / Commercial payer initiatives.
