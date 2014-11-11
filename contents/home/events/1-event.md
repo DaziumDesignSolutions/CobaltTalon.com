@@ -5,5 +5,5 @@ link: https://cc.readytalk.com/r/xsqgfxotsztj&eom
 
 WEBCAST: Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
 
-Speakers: Darren Taylor - President and COO, Cobalt Talon
-          Jeff Eckhaus  - VP of Services and Infrastructure, Cobalt Talon
+Speakers: *Darren Taylor - President and COO, Cobalt Talon
+          *Jeff Eckhaus  - VP of Services and Infrastructure, Cobalt Talon
