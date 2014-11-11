@@ -5,11 +5,10 @@ title: Current Events
 #Current Events
 
 ---
-September 21st, 2014
-#####IM Symposium
+November 18th, 2014
+#####WEBCAST: Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
 
-The IM Symposium provides Plan business and technical representatives an opportunity to network and exchange best practices and innovations in the field of information management, information architecture, data warehousing, business intelligence, informatics and analytics with the end result of delivering actionable business value to the Plans through the power of information assets.
-
+. Join this webcast to learn how data analysts and care management teams are using predictive modeling to identify high-risk consumer populations and then employing preemptive measures to service those groups more cost-effectively.
 ---
 October 5th, 2014
 #####Predictive Analytics World 
