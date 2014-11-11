@@ -14,6 +14,7 @@ September 21st, 2014
 October 5th, 2014
 
 [Predictive Analytics World]
+
 [Predictive Analytics World]: http://www.predictiveanalyticsworld.com/boston/2014/agenda_overview.php
 
 ---
