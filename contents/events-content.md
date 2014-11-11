@@ -6,7 +6,7 @@ title: Current Events
 
 ---
 November 18th, 2014
-#####WEBCAST Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
+#####MICROSTRATEGY WEBCAST - Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
 
 Join the webcast below to learn how data analysts and care management teams are using predictive modeling to identify high-risk consumer populations and then employing preemptive measures to service those groups more cost-effectively.
 
