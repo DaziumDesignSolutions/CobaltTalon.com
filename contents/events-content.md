@@ -5,12 +5,14 @@ title: Current Events
 #Current Events
 
 ---
-November 18th, 2014
-#####[WEBCAST Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations]
+date: 2014-11-18
+link: https://cc.readytalk.com/r/xsqgfxotsztj&eom
+---
 
-Join this [webcast] to learn how data analysts and care management teams are using predictive modeling to identify high-risk consumer populations and then employing preemptive measures to service those groups more cost-effectively.
-['WEBCAST Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations']: https://cc.readytalk.com/r/xsqgfxotsztj&eom
-[webcast]: https://cc.readytalk.com/r/xsqgfxotsztj&eom
+WEBCAST: Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
+
+Speakers: Darren Taylor - President and COO, Cobalt Talon
+          Jeff Eckhaus  - VP of Services and Infrastructure, Cobalt Talon
 ---
 October 5th, 2014
 #####Predictive Analytics World 
