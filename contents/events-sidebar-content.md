@@ -4,18 +4,19 @@ title: Archive Events
 
 ###Archived Events
 
-September 21st, 2014
-
-[IM Symposium]
-[IM Symposium]: http://www.imsymposium2014.com/
-
----
-
 October 5th, 2014
 
 [Predictive Analytics World]
 
 [Predictive Analytics World]: http://www.predictiveanalyticsworld.com/boston/2014/agenda_overview.php
+
+---
+
+September 21st, 2014
+
+[IM Symposium]
+
+[IM Symposium]: http://www.imsymposium2014.com/
 
 ---
 
