@@ -4,6 +4,12 @@ title: Archive Events
 
 ###Archived Events
 
+November 18th, 2014
+
+[MicroStrategy Webcast]
+[MicroStrategy Webcast]: https://cc.readytalk.com/r/xsqgfxotsztj&eom
+---
+
 October 5th, 2014
 
 [Predictive Analytics World]
