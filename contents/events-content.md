@@ -2,21 +2,16 @@
 title: Current Events
 ---
 
-#Current Events
+#Upcoming Events
 
+Microstrategy World 2015
 ---
-November 18th, 2014
-#####MICROSTRATEGY WEBCAST - Value-Based Healthcare Delivery for Data-Driven Healthcare Organizations
-
-Join the webcast below to learn how data analysts and care management teams are using predictive modeling to identify high-risk consumer populations and then employing preemptive measures to service those groups more cost-effectively.
-
-######https://cc.readytalk.com/r/xsqgfxotsztj&eom
+Blue National Summit 2015
 ---
-October 5th, 2014
-#####Predictive Analytics World 
-
-Predictive Analytics World October 5–9 in Boston is packed with the top predictive analytics experts, practitioners, authors and business thought leaders, including keynote speakers:
-
-* Sameer Chopra, GVP of Advanced Analytics - Orbitz
-* Jack Levis, Senior Director, Process Management - UPS
-* John Foreman, Chief Scientist - MailChimp
+AHIP Institute 2015
+---
+BCBS WEstern Operations Conference 2015
+---
+BCBS IM Symposium 2015
+---
+Healthcare Predictive Analytics World 2015
