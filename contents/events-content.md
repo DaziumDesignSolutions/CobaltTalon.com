@@ -8,6 +8,7 @@ title: Current Events
 [MicroStrategy World 2015]: http://www.microstrategy.com/us/microstrategyworld
 January 26-29
 Las Vegas
+
 ---
 
 [Blue National Summit 2015]
