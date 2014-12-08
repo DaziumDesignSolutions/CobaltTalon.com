@@ -4,10 +4,10 @@ title: Current Events
 
 #Upcoming Events
 
-[Microstrategy World 2015]
-[Microstrategy World 2015]: http://www.microstrategy.com/us/microstrategyworld
+[MicroStrategy World 2015]
+[MicroStrategy World 2015]: http://www.microstrategy.com/us/microstrategyworld
 January 26-29
-
+Las Vegas
 ---
 
 [Blue National Summit 2015]
@@ -30,4 +30,7 @@ BCBS IM Symposium 2015
 
 ---
 
-Healthcare Predictive Analytics World 2015
+[Healthcare Predictive Analytics World 2015]
+[Healthcare Predictive Analytics World 2015]: http://www.predictiveanalyticsworld.com/sanfrancisco/2015/
+March 29 - April 2
+San Francisco
