@@ -11,12 +11,6 @@ Las Vegas
 
 ---
 
-[Blue National Summit 2015]
-[Blue National Summit 2015]: http://www.cvent.com/events/2015-blue-national-summit-sponsorships-and-exhibits/event-summary-36e90ee1bd734c02b6edad53a1a813ed.aspx
-April 20-23
-
----
-
 [AHIP Institute 2015]
 [AHIP Institute 2015]: http://www.ahip.org/Sponsorship/Institute2015/
 June 3-5
