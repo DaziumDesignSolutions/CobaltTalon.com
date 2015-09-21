@@ -6,8 +6,6 @@ To compete and survive in the dramatically shifting U.S. healthcare market, heal
 
 ![products-market-shift-module](/images/updates_videoplay.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7FWsnS-QUPs" frameborder="0" allowfullscreen></iframe>
-
 Cobalt Talon has developed the Health Consumer Analytic Module, a point solution designed to address the shifting healthcare insurance marketplace. Utilizing the Module, companies can leverage consumer data to drive sales and marketing strategies in a direct-to-consumer world. Because of the nature of Cobalt Talon’s module offerings, this solution is available with little implementation effort at a very affordable rate.
 
 * Predicts the likelihood of small employer groups to drop coverage
