@@ -4,18 +4,7 @@ title: Health Consumer Analytic Module Overview
 
 To compete and survive in the dramatically shifting U.S. healthcare market, health plans and insurance agencies must adapt their business models to accommodate new direct-to-consumer channels while also maintaining traditional employer-sponsored plans.
 
-<div onclick="thevid=document.getElementById('thevideo'); thevid.style.display='block'; this.style.display='none'">
-	<img style="cursor: pointer;" src="/contents/images/updates_videoplay.jpg" alt="" />
-</div>
-<div id="thevideo" style="display: none;">
-	<object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-		<param name="allowFullScreen" value="true" />
-		<param name="allowscriptaccess" value="always" />
-		<param name="src" value="https://www.youtube.com/embed/7FWsnS-QUPs;autoplay=1" /><param name="allowfullscreen" value="true" />
-		<embed width="560" height="315" type="application/x-shockwave-flash" src="https://www.youtube.com/embed/7FWsnS-QUPs;autoplay=1" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" />
-	</object>
-</div>
-
+![products-market-shift-module](/images/updates_videoplay.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FWsnS-QUPs" frameborder="0" allowfullscreen></iframe>
 
