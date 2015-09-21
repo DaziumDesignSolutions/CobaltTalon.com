@@ -4,6 +4,8 @@ title: Health Consumer Analytic Module Overview
 
 To compete and survive in the dramatically shifting U.S. healthcare market, health plans and insurance agencies must adapt their business models to accommodate new direct-to-consumer channels while also maintaining traditional employer-sponsored plans.
 
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/7FWsnS-QUPs" width="420"></iframe>
+
 Cobalt Talon has developed the Health Consumer Analytic Module, a point solution designed to address the shifting healthcare insurance marketplace. Utilizing the Module, companies can leverage consumer data to drive sales and marketing strategies in a direct-to-consumer world. Because of the nature of Cobalt Talon’s module offerings, this solution is available with little implementation effort at a very affordable rate.
 
 * Predicts the likelihood of small employer groups to drop coverage
