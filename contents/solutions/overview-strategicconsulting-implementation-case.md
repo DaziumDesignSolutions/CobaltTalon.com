@@ -1,36 +1,31 @@
 ---
-title: Implementation Servcies Case Study
+title: Implementation Services Case Study
 ---
 
-[CASE STUDY]
-`Link to PDF of:
-Enterprise Information Management Delivers Major Business Benefits For Health Insurance Provider
+###Managed care organization leverages advanced analytics to become an information-driven enterprise
+Cobalt Talon delivers enterprise information strategy and business intelligence to a leading health plan that provides health coverage to approximately one million customers. Facing pressure from national vendors, the client identified the need to leverage its information resources to remain competitive in the market. The client’s vision was to create an information-driven enterprise, enabling the business to improve operating performance and proactively manage its relationship with members, employer groups, and healthcare providers. The client partnered with Cobalt Talon to define a data strategy and build an enterprise data warehouse to support these objectives.
 
-Knightsbridge Solution Enables Business Transformation
-The client is a leading provider of specialized insurance products and services with annual revenue of $7 billion. Recognizing that its market was evolving rapidly, the company identified several strategic business initiatives to reinforce its leadership position. These initiatives leverage information resources to drive major enhancements in some of the company’s core business processes, including underwriting, customer segmentation, and customer placement. The company partnered with Knightsbridge Solutions to define a data strategy and build an information architecture to support these strategic objectives.
+###Business and technology challenge
+The client’s vision required the integration of data from multiple systems and databases scattered throughout the organization. Without an integrated information resource, the health plan was unable to monitor costs, segment customers, or manage risk. It also could not provide reliable information to key constituents. Plan members and other business partners were increasingly pressuring the client to deliver information to support informed health and financial decisions. New value-based products and services would enable the client to meet the needs of its customers and partners and respond to competitive pressure from larger national health plans.
+Cobalt Talon conducted a detailed examination of the client’s business, technical, and data requirements, including interviews with more than 100 executives. The evaluation found that information analysis lagged behind business activity by as much as eight months, and business analysts spent most of their time locating, validating, and integrating data—not analyzing it.
 
-Business and Technology Challenge
-The client realized that information was the key to improving their business functions. Decision makers needed consistent and reliable information, sourced from multiple systems, in order to understand and enhance processes. However, the client’s data infrastructure and reporting tools were incapable of delivering consistent and reliable enterprise information. The existing data store was inflexible and incapable of scaling to meet demand. Further, the company recently merged with another organization, which created substantial systems integration and standardization difficulties. The business required integrated enterprise data and flexible, user-driven information access.
+###Solution
+Cobalt Talon developed a strategic vision for information management, mapped to a phased implementation plan for the enterprise data warehouse. The program consisted of three major elements:
+* **Organizational alignment:** A newly created Information Access Division (IAD) brought business and IT leaders together into a single organization charged with managing information as a corporate asset. The IAD included a business intelligence competency center, data acquisition team, and information asset management team.
+* **Information architecture:** Cobalt Talon designed and built an enterprise data warehouse, integrating data from more than 20 source systems in 16 departments. The solution delivered end-to-end data capabilities, incorporating data modeling, ETL architecture, metadata definition, and data governance. The data architecture was designed to scale efficiently, adapt to changing business requirements, and deliver long-term sustainable value.
+* **Business enablement:** Building on the integrated data architecture, the Cobalt Talon team implemented a sophisticated business intelligence (BI) and analytics solution. The BI solution offers dramatic improvements in information access and analytical power, enabling users to focus on business analysis rather than data aggregation. In addition to improved analysis and decision making, the solution enables healthcare analytics applications, including disease management, predictive modeling, and physician pay-for-performance programs. Externally, hundreds of healthcare
+providers and brokers use the system to access member information; and roughly 500,000 policyholders log on to the member web site to manage medical and pharmacy claims.
 
-Solution
-The company engaged with Knightsbridge to develop an information management solution. In phase one of the engagement, the team delivered end-to-end data capabilities, incorporating data modeling, extract, transform, and load (ETL) architecture, metadata definition, and data governance. The process began with a large-scale data modeling exercise to optimize the solution for access and scalability. The data model provides standardization of definitions across business units and functional areas. Building on this model, the team developed an ETL architecture that integrates current and historical data across seven distinct business subject areas. The information architecture incorporates data quality and governance methodologies and compliance reporting requirements.
-Phase two focused on the underwriting data mart, including the definition of requirements, business rules, and key performance measures. Knightsbridge evaluated the availability of source data for the defined measures and identified gaps. As part of the data mart implementation, the team also performed data profiles on all available source data to identify in advance any issues with data quality. In addition to the Phase one and two implementation work, the team re-engineered approximately 10 legacy data marts to source data from the new enterprise data warehouse. In many cases, the re-engineering work leveraged the Knightsbridge Development Center, a facility that provides skilled data warehousing professionals through an offsite engagement model. The Development Center provided design, implementation, and quality assurance testing services with greater resource flexibility and reduced project costs. 
+###Results
+* **Improved care delivery:** The new healthcare analytics solution offers dramatic improvements in predictive modeling and member risk assessments. Previously, the client directly managed only 4% of its member population. Now, it can actively manage potential member risk for 100% of its members—and reach out proactively to help improve their health, resulting in improved care and decreased costs.
+* **Reduced cost of care:** The enterprise data warehouse enables new care management and risk modeling applications, driving new efficiency in care delivery. The client estimates that reductions in medical and pharmacy costs alone will equal $10 million in annual savings.
+* **Increased operating efficiency:** The client spends nearly $4 million each year contracting with disease management vendors to identify and manage at-risk patients with serious health conditions. The enterprise warehouse’s care management capabilities will enable the plan to move these services in-house, saving an estimated $2.5 million annually.
+* **Increased IT efficiency:** The client’s team of business analysts are able to shift from data administration tasks to true analysis of information sourced from the enterprise warehouse. The client expects to save $600,000 per year in direct costs while dramatically improving the quality and impact of business analysis.
+* **Organizational transformation:** The Cobalt Talon solution enables the client to fulfill its vision of becoming an information-driven enterprise. With a reliable enterprise information resource and a professional staff dedicated to managing data as a corporate asset, the client is able to reengineer business processes and proactively engage with customers and partners.
 
-Throughout the engagement, Knightsbridge utilized our project value accelerators, including the Audit, Balance, and Control (ABC) data quality solution and the Codes and Data Mapping Application (CDMA) for metadata management. These pre-built value accelerators enable healthcare organizations to benefit from Knightsbridge’s expertise in the industry, decrease time-to-value, and reduce risk.
+###Technologies
+* **Database:** Teradata
+* **Warehousing tools:** Pentaho
+* **Business intelligence:** MicroStrategy
 
-Results
-Knightsbridge delivered an enterprise data warehouse solution that provides a stable and scalable information architecture. The solution integrates the complex systems environment into a single version of the truth and enables the client to leverage its information resources to drive strategic business initiatives.
-
-With the enterprise information solution in place, the client is transforming its core business processes and generated quantifiable benefits:
-
-•	Revised underwriting guidelines: Improved load assessment and risk stratification capabilities enable the client to evaluate loss experience and rewrite its underwriting guidelines. The estimated business value of the revised underwriting processes is more than $100 million.
-•	Improved customer segmentation: The client will use analytics to enhance its customer and agent segmentation and refine its value proposition for targeted customers. The client expects this change in market strategy to drive increases in sales effectiveness worth an estimated $120 million.
-•	New placement strategies: Enterprise information will enable the client to evaluate customer placement strategies and adjust premiums, coverage, and deductibles. Improvements in placement power and customer retention are expected to have a business value of more than $40 million.
-•	Offer optimization: The client will develop models to match offers with customer types, driving increased acceptance rates and reduced offer cycles.
-•	Underwriting automation: Automating the underwriting process decreases application turnaround time, improves compliance, and enables point-of-sale underwriting.
-•	Prescription history: Analyzing and understanding customer prescription histories improves risk management
-
-Technologies
-• Database: Oracle 9i
-• Warehouse tools: IBM WebSphere DataStage Enterprise Edition and ProfileStage
-• Business Intelligence: Cognos ReportNet
+<a href="" class="back_one">Return To Strategic Consulting Services</a>

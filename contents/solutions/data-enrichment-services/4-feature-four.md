@@ -1,12 +1,7 @@
 ---
 image: dataenrich_465514537.jpg
-sidebar: generic-list.md
 ---
 
 ### Provider Efficiency Scoring
 
-`What you had reads exactly like Analytic Methodologies, need new copy... We leverage a provider efficiency scoring solution that compares physician efficiencies against both peer groups and standard expected protocol ranges. Output from this methodology can be used to facilitate data-driven discussions with both primary care and specialty care physicians to enable greater efficiency levels into the future.`
-
-[Overview]
-
-[Overview]: http://google.com
+A provider efficiency scoring solution allows for comparisons of physician efficiencies to peer groups and standard expected protocol ranges. The results enable data-driven discussion with primary and specialty care physicians to achieve greater levels of efficiency into the future.

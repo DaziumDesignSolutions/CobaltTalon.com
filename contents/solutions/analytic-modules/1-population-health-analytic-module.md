@@ -5,9 +5,8 @@ sidebar: pop-health-sidebar.md
 
 ### Population Health Analytic Module
 
-Integrates and transforms healthcare claims and clinical data via a unique combination of data mapping tools, healthcare- specific data model, world-class technology platform and expert data management resources.
+Leverages healthcare claims and clinical data, in conjunction with a healthcare specific data model and multiple data enrichment methodologies, in support of a healthcare organization ability to effectively gain insights into the health and ultimate management of any defined population.
 
+[Overview]
 
-[Landing]
-
-[Landing]: http://50.62.110.126/populationhealthanalytics
+[Overview]: /solutions/population-health-analytics.html

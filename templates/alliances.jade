@@ -1,0 +1,68 @@
+extends layout
+
+block title
+  - var content = contents['about']['partnerships.md']
+  = content.title
+  |  | 
+  = locals.name
+  
+block content
+  #partnership
+    .container
+      .content-area
+        h1= content.title
+        .partner.first
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/transformed_logo.gif')
+          .col-sm-6
+            h3= 'Transforming Medical Practices'
+            a(href='http://www.transformed.com/') www.transformed.com
+            
+        .partner.first
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/micro350.jpg')
+          .col-sm-6
+            h3= 'Business Intelligence Software'
+            a(href='http://www.microstrategy.com/uk/') www.microstrategy.com/uk
+
+        .partner
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/mmedInsight.jpg')
+          .col-sm-6
+            h3= 'Healthcare Analytic Methodologies'
+            a(href='http://www.medinsight.milliman.com/home/index.php') www.medinsight.milliman.com
+
+        .partner
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/soft10.jpg')
+          .col-sm-6
+            h3= 'Automatic Prediction Software'
+            a(href='https://soft10ware.com/') soft10ware.com
+
+        .partner
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/rxresults.jpg')
+          .col-sm-6
+            h3= 'Pharmacy Analytic Methodologies'
+            a(href='http://www.rxresults.com/') www.rxresults.com
+
+        .partner
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/cavesconsulting.jpg')
+          .col-sm-6
+            h3= 'Healthcare Provider Efficiency Methodologies'
+            a(href='http://www.cavegroup.com/') www.cavegroup.com
+
+        .partner
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/tera.png')
+          .col-sm-6
+            h3= 'Data Warehouse Appliance & DBMS Software'
+            a(href='http://www.teradata.com/?LangType=1033') www.teradata.com
+
+        .partner.last
+          .col-sm-6
+            img.img-responsive(src='/about/partnerships/sirius.jpg')
+          .col-sm-6
+            h3= 'Managed Hosting Services - Sirius Computer Solutions, LLC'
+            a(href='http://www.mysiriuszone.com/') www.mysiriuszone.com

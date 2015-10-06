@@ -1,6 +1,6 @@
 ---
 icon: icon-pophealth.png
-link: /solutions/analytic-modules.html
+link: /solutions/population-health-analytics.html
 ---
 
-#### Population Analytic Module
+#### Population Health Analytic Module

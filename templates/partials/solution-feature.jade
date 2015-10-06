@@ -1,9 +1,15 @@
-- var idx = feature.filepath.relative.lastIndexOf('/');
-- var path = feature.filepath.relative.slice(0,idx);
+//- var idx = feature.filepath.relative.lastIndexOf('/');
+//- var path = feature.filepath.relative.slice(0,idx);
+- var idx = feature.url.lastIndexOf('/');
+- var path = feature.url.slice(1,idx);
 - var image_url = '/' + path + '/' + feature.metadata.image;
 - var sidebar = false;
 - if (typeof feature.metadata.sidebar !== "undefined") {
 -   sidebar = feature.parent.sidebars[feature.metadata.sidebar]
+- }
+- var enlarge = false;
+- if (typeof feature.metadata.enlarge !== "undefined") {
+-   enlarge = true
 - }
 
 
@@ -13,14 +19,20 @@
       - if (sidebar)
         .col-sm-2
           img.img-responsive(src=image_url)
-        .col-sm-7
+        .col-sm-6
           != feature.html
-        .col-sm-3
+        .col-sm-4
           != sidebar.html
       - else
-        .col-sm-4
-          img.img-responsive(src=image_url)
-        .col-sm-8
+        .col-sm-2
+          - if (enlarge)
+            a.enlarge_image(href=image_url)
+              img.img-responsive(src=image_url)
+            a.enlarge_image.action_text(href=image_url)
+              != 'Click to Enlarge'
+          - else
+            img.img-responsive(src=image_url)
+        .col-sm-10
           != feature.html
 
 

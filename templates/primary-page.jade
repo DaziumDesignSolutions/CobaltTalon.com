@@ -1,0 +1,44 @@
+extends layout
+
+block title
+  - var filename_parts = page.filename.split('.');
+  - var filename = filename_parts[0];
+  - var content = contents[filename + '.md'];
+  - var callout = contents[filename + '-callout.md'];
+
+  - var features = contents[filename]
+  - if (typeof features !== "undefined") {
+  -   var features = _.chain(features._.pages).sortBy(function(item) {
+  -     var ptn = RegExp(filename + '/' + '(\\d+)-.*');
+  -     var match = item.url.match(ptn);
+  -     return parseInt(match[1]);
+  -   }).value();
+  - }
+  - else {
+  -   features = []
+  - }
+
+  = content.title + ' | ' + locals.name
+
+
+block content
+  div(id='resources-' + cfname)
+    .container
+      .content-area
+        //
+          = filename
+          ul
+            each val, index in page
+              li= index + ': ' + val    
+        h1= content.title
+        - if (typeof callout !== 'undefined')
+          .row
+            .col-sm-8!= content.html
+            .col-sm-4
+              .callout!= callout.html
+        - else
+          != content.html
+    
+      #resources-features
+        each feature in features
+          include partials/solution-feature

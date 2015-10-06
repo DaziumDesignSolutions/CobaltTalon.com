@@ -1,0 +1,37 @@
+extends layout
+
+block title
+  //- var content = contents['contact-content.md']
+  //- var content = contents['about']['overview.md']
+  - var content = '';
+  - if (typeof locals.page.metadata.sub_dir !== "undefined") {
+  -   content = contents[locals.page.metadata.sub_dir][locals.page.metadata.content_file]
+  -   content_sidebar = contents[locals.page.metadata.sub_dir][locals.page.metadata.sidebar_file]
+  - } else {
+  -   content = contents[locals.page.metadata.content_file]
+  -   content_sidebar = contents[locals.page.metadata.sidebar_file]
+  - }
+  - var page_id = locals.page.metadata.content_file.split('.')[0];
+  - var classes = '';
+  - if (typeof locals.page.metadata.classes !== "undefined") {
+  -   classes = locals.page.metadata.classes
+  - }
+  = content.title
+  |  | 
+  = locals.name
+  
+block content
+  div(id= page_id class= classes)
+    .container
+      .content-area
+        //ul
+        //  each val, index in locals
+        //    li= index + ': ' + val    
+        //ul
+        //  each val, index in locals.page.metadata
+        //    li= index + ': ' + val
+        .col-sm-8
+          != content.html
+        .col-sm-4
+          //!= contents['events-sidebar-content.md'].html
+          != content_sidebar.html

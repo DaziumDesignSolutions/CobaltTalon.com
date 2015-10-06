@@ -1,1 +1,2 @@
-Our Analytic Modules provide a turnkey solution that enables new healthcare strategies through enhanced business insight.
+_“The Cobalt Talon tool will allow us to track and monitor program performance and outcomes and compare them against industry standards and regional benchmarks. This data will allow us to calculate savings in medical costs over time.”_
+Blake Williamson, MD Health Plan Specialist for TransforMED

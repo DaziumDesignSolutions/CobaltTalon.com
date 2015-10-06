@@ -6,15 +6,15 @@ nav#main-dropdown-nav.navbar.navbar-default.navbar-static
           span.icon-bar
           span.icon-bar
           span.icon-bar
-        a.navbar-brand(href='/') Home
+        a.navbar-brand(href='/') HOME
       .collapse.navbar-collapse.js-navbar-collapse
         ul.nav.navbar-nav
           li.dropdown.dropdown-large
             a.dropdown-toggle(href='#', data-toggle='dropdown')
               | SOLUTIONS
               b.caret
-            ul.dropdown-menu.dropdown-menu-large.row
-              li.col-sm-6
+            ul.dropdown-menu.dropdown-menu-large.solutions.row
+              li.col-sm-5
                 ul
                   li.dropdown-header PRODUCTS
                   li
@@ -30,22 +30,43 @@ nav#main-dropdown-nav.navbar.navbar-default.navbar-static
                     a(href='/solutions/data-enrichment-services.html') Data Enrichment Services
                   li
                     a(href='/solutions/predictive-insights.html') Predictive Insights
-              li.col-sm-6
+              li.col-sm-7
                 p: img(src=contents.images.menu['solutions-menu.jpg'].url)
-                p Classify and place patients into accurate clinical and financial risk categories.
+                p.mega Classify and place patients into accurate clinical and financial risk categories.
           li
-            a.dropdown-toggle(href='#', data-toggle='dropdown')
-              | NEWS and EVENTS
+            a.dropdown-toggle(href='/news.html')
+              | NEWS
               //- b.caret
           li
-            a.dropdown-toggle(href='#', data-toggle='dropdown')
+            a.dropdown-toggle(href='/events.html')
+              | EVENTS
+              //- b.caret
+          li
+            a.dropdown-toggle(href='/resources.html')
               | RESOURCES
               //- b.caret
-          li
+          li.dropdown.dropdown-large
             a.dropdown-toggle(href='#', data-toggle='dropdown')
               | ABOUT
-              //- b.caret
+              b.caret
+            ul.dropdown-menu.dropdown-menu-large.about.row
+              li.col-sm-4
+                ul
+                  li.dropdown-header ABOUT
+                  li
+                    a(href='/about/overview.html') Overview
+                  li
+                    a(href='/about/our-team.html') Our Team
+                  li
+                    a(href='/about/alliances.html') Alliances
+                  li
+                    a(href='/about/clients.html') Clients
+                  li
+                    a(href='/about/careers.html') Careers
+              li.col-sm-8
+                p: img(src=contents.images.menu['about-menu.jpg'].url)
+                p.mega Leverage and turn vast amounts of data into actionable business insights.
           li
-            a.dropdown-toggle(href='#', data-toggle='dropdown')
+            a.dropdown-toggle(href='/contact.html')
               | CONTACT
               //- b.caret

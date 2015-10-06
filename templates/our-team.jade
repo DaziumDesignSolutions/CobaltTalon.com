@@ -1,0 +1,27 @@
+extends layout
+
+block title
+  - var subdir_page = page.url.split('/');
+  - var subdir = subdir_page[1];
+  - var cfname = subdir_page[2].split('.')[0];
+  - var content = contents[subdir][cfname + '.md'];
+  = content.title + ' | ' + locals.name  
+block content
+
+  #about
+    .container
+      .content-area
+        h1= content.title
+        != content.html
+
+        - var our_team = contents[subdir][cfname]
+        - if (typeof our_team !== "undefined") {
+        -   var our_team = _.chain(our_team._.pages).sortBy(function(item) {
+        -   var ptn = RegExp(subdir + '/' + cfname + '/' + '(\\d+)-.*');
+        -   var match = item.url.match(ptn);
+        -   return parseInt(match[1]);
+        -   }).value();
+        - }
+        #our_team
+          each member in our_team
+            include partials/our-team-members

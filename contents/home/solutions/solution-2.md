@@ -1,6 +1,6 @@
 ---
 icon: icon-provideranalytics.png
-link: /solutions/analytic-modules.html
+link: /solutions/overview-analyticmodules-provider.html
 ---
 
-#### Provider Analytic Module
+#### Provider Efficiency Analytic Module

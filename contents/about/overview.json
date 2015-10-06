@@ -1,0 +1,6 @@
+{
+  "template": "sidebar.jade",
+  "sub_dir": "about",
+  "content_file": "overview.md",
+  "sidebar_file": "overview-sidebar-content.md"
+}

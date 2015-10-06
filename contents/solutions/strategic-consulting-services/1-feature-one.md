@@ -5,7 +5,7 @@ sidebar: BIandDW.md
 
 ###BI and DW Consulting
 
-Cobalt Talon can help you establish or enhance your data management vision and strategy with services that bridge the gap between your organization’s business objectives and technical solutions that give your business better access to the information it needs.  Our resource’s experience in technical and business units in and outside of healthcare gives us a unique ability to ensure that the technical solutions rapidly add value to the business organization. While Cobalt Talon’s expertise, capabilities and ability to staff are fairly broad, we primarily focus on several key offerings. 
-
+Cobalt Talon is focused exclusively on delivering business intelligence and data warehousing solutions for healthcare organizations – it’s all we do.   Our experience and capabilities encompass the full development lifecycle  from BI and DW strategy, through analysis, planning, design, implementation, testing and rollout.  Our resources’ expertise, which comes from the information technology and business units inside of healthcare organizations, gives Cobalt Talon the unique ability to ensure that our consulting services add value to your organization by providing rapid access to the information needed to succeed.
+ 
 [Overview]
 [Overview]: /solutions/overview-strategicsconsulting-bidw.html

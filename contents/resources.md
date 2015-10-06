@@ -1,0 +1,3 @@
+---
+title: "Cobalt Talon Resources"
+---

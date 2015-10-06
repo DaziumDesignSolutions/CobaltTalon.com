@@ -1,0 +1,6 @@
+{
+  "template": "basic_layout.jade",
+  "sub_dir": "news",
+  "content_file": "big-data-daunting.md",
+  "classes": "news"
+}

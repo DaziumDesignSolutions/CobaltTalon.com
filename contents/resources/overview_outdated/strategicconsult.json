@@ -1,0 +1,6 @@
+{
+  "template": "basic_layout.jade",
+  "sub_dir": "resources",
+  "sub_dir2": "overview_outdated",
+  "content_file": "strategicconsult.md"
+}

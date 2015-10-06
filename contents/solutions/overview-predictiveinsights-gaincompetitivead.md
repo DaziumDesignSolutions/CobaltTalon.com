@@ -2,9 +2,9 @@
 title: Gain Competitive Advantage
 ---
 
+**Predictive Insights = Business Opportunities in Healthcare**
 
-PREDICTIVE INSIGHTS = BUSINESS OPPORTUNITIES IN HEALTHCARE 
-Dozens of high-potential opportunities exist today in most every healthcare organization.  The following are examples of opportunities that ACOS and Health Plans can tackle quickly by using an Agile Analytics approach.  
+Dozens of high-potential opportunities exist today in most every healthcare organization.  The following are examples of opportunities that ACOS and Health Plans can tackle quickly by using an Agile Analytics approach.
 
 1.	Discover patients most likely to re-admit after an inpatient stay, which enables customization of discharge planning and post-hospitalization follow-up activities. Avoidance of a single re-admit can save thousands of dollars per case, improve the health system’s quality ratings and create a better scenario for the patient’s health and well-being.
 2.	Discover individuals most likely to have specific medical procedures in the future (e.g., back surgery) and enable proactive outreach efforts designed to educate patients on alternative treatments, lifestyle changes and safety issues if a surgery is the best treatment path.  Less invasive and less costly treatments often have similar or better patient outcomes.
@@ -12,3 +12,5 @@ Dozens of high-potential opportunities exist today in most every healthcare orga
 4.	Discover patients most likely to unnecessarily visit highest-cost, inefficient care settings (e.g., emergency room for routine services) and create incentives directing them to more appropriate settings or to address healthcare access opportunities that exist.  
 
 These examples clearly demonstrate the opportunities that can be enabled by enhanced analytic insight.  Agile Analytics solutions exist today and allow companies to reap such benefits without investing millions or waiting years for the return on investment.  
+
+<a href="" class="back_one">Return To Solutions</a>
